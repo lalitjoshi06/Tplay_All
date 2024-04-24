@@ -16,7 +16,6 @@ export default async function handler(req, res) {
 
 import { all } from "axios";
 import fetch, { Headers } from "cross-fetch";
-import { replacestrings } from './stringreplace';
 // const baseUrl = "https://kong-tatasky.videoready.tv";
 const baseUrl = "https://tm.tapi.videoready.tv";
 
