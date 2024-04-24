@@ -1,4 +1,5 @@
 # Tata Sky m3u generator web app
+This project is totally base on CodeCrafters API
 A react web app to generate an m3u playlist for the channels Available on Tata Sky.
 ## Update
 Converted to a single repo to make it a one click deploy on vercel as a lot of you non-technical people were facing difficulties while deploying.
@@ -17,9 +18,7 @@ a) npm install<br>
 b) npm run dev
 3) Enjoy!
 
-**Note : **use this playlist on OTT Navigator and set to reload data to 10 min bcz hmac expires in every 10 min for most of channels.
-           There is some issue to create dynamic url on Vercel use render for dynamic url, and if you know how to create manually then create manually.
-           or run it locally on pc you will get dynamic URL.
+**Note : **use this playlist on OTT Navigator and set to reload data to 10 min bcz hmac expires in every 10 min for most of channels.           
         
 Special thanks to CodeCrafters for their API.
 
