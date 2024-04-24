@@ -1,6 +1,8 @@
 # Tata Sky m3u generator web app
-This project is totally based on CodeCrafters API
+This project is totally based on CodeCrafters API.
+
 A react web app to generate an m3u playlist for the channels Available on Tata Sky.
+
 ## Update
 Converted to a single repo to make it a one click deploy on vercel as a lot of you non-technical people were facing difficulties while deploying.
 ## Deploy on vercel and access from anywhere (Easy)
