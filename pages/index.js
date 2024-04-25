@@ -81,7 +81,7 @@ export default function Home() {
                 <p>
                   <Button loading={downloading} primary onClick={() => downloadM3uFile('ts.m3u')}>Download m3u file</Button>
                 </p>
-                <p>The downloaded m3u file will be valid only for 24 hours.</p>
+                <p>The downloaded m3u file will be valid only for 10 Minutes.</p>
               </Message>
             </Segment>
           </Grid.Column>
