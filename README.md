@@ -10,7 +10,7 @@ Converted to a single repo to make it a one click deploy on vercel as a lot of y
 <a href="https://vercel.com/new/clone?repository-url=https://github.com/lalitjoshi06/Tplay_All.git"><img src="https://vercel.com/button" alt="Deploy"/></a><br>
 You will need an account on Vercel. It's free!
 
-(https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/lalitjoshi06/Tplay_All.git)
+<a href="https://render.com/deploy?repo=https://github.com/lalitjoshi06/Tplay_All.git"><img src="https://render.com/images/deploy-to-render-button.svg" alt="Deploy"/></a><br>
 You will need an account on Render. It's free!
 Enjoy!
 ## Run locally (You need a little bit of git and npm knowledge)
