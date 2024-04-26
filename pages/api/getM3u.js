@@ -80,7 +80,7 @@ const getUserChanDetails = async (userChannels) => {
                         hmac_required: channel.hmac_required,
                         key_extracted: channel.key_extracted,
                         pssh: channel.pssh,
-                        clearkey: channel.clearkeys ? JSON.stringify(channel.clearkeys[0].base64) : null,
+                        clearkey: channel.clearkeys ? JSON.stringify(channel.clearkeys[0].hex) : null,
                         hma: hmacValue
                     };
                     obj.list.push(rearrangedChannel);
