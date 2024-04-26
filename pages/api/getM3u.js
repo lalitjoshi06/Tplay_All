@@ -73,7 +73,7 @@ const getUserChanDetails = async (userChannels) => {
                         tvg_logo: channel.logo_url,
                         stream_url: channel.manifest_url,
                         license_url: channel.license_url,
-                        stream_headers: channel.stream_headers,
+                        stream_headers: channel.manifest_headers ? (channel.manifest_headers['User-Agent'] || JSON.stringify(channel.manifest_headers)) : null,
                         drm: channel.drm,
                         is_mpd: channel.is_mpd,
                         kid_in_mpd: channel.kid_in_mpd,
@@ -121,6 +121,7 @@ const generateM3u = async (ud) => {
                 m3uStr += 'group-title=\"' + (chansList[i].group_title) + '\", tvg-logo=\"https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/' + (chansList[i].tvg_logo) + '\", ' + chansList[i].name + '\n';
                 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey\n';
                 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=' + chansList[i].clearkey + '\n';
+                m3uStr += '#EXTVLCOPT:http-user-agent=' + chansList[i].stream_headers + '\n';
                 m3uStr += chansList[i].stream_url + '?' + chansList[i].hma + '\n\n';
             }
 
