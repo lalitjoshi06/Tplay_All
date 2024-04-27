@@ -115,10 +115,10 @@ const generateM3u = async (ud) => {
         if (userChanDetails.err === null) {
             let chansList = userChanDetails.list;
 
-            m3uStr = '#EXTM3U x-tvg-url="https://github.com/mitthu786/tvepg/blob/main/tataplay/epg.xml.gz"\n\n';
+            m3uStr = '#EXTM3U x-tvg-url="https://github.com/mitthu786/tvepg/raw/main/tataplay/epg.xml.gz"\n\n';
 
             for (let i = 0; i < chansList.length; i++) {
-                m3uStr += '#EXTINF:-1 tvg-id="' + chansList[i].id.toString() + '" ';
+                m3uStr += '#EXTINF:-1 tvg-id="ts' + chansList[i].id.toString() + '" ';
                 m3uStr += 'group-title=\"' + (chansList[i].group_title) + '\", tvg-logo=\"https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/' + (chansList[i].tvg_logo) + '\", ' + chansList[i].name + '\n';
                 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey\n';
                 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=' + chansList[i].clearkey + '\n';
