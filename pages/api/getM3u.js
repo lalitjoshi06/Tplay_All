@@ -65,11 +65,12 @@ const getUserChanDetails = async (userChannels) => {
             if (cData && cData.data && Array.isArray(cData.data.channels)) {
                 const flatChannels = cData.data.channels.flat();
                 flatChannels.forEach(channel => {
+                    let firstGenre = channel.genres && channel.genres.length > 0 ? channel.genres[0] : null;
                     let rearrangedChannel = {
                         id: channel.id,
                         name: channel.name,
                         tvg_id: channel.tvg_id,
-                        group_title: channel.genres,
+                        group_title: firstGenre,
                         tvg_logo: channel.logo_url,
                         stream_url: channel.manifest_url,
                         license_url: channel.license_url,
