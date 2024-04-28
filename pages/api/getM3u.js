@@ -16,30 +16,8 @@ export default async function handler(req, res) {
 
 import { all } from "axios";
 import fetch, { Headers } from "cross-fetch";
-// const baseUrl = "https://kong-tatasky.videoready.tv";
-const baseUrl = "https://tm.tapi.videoready.tv";
 
-const getAllChans = async () => {
-    var requestOptions = {
-        method: 'GET'
-    };
-
-    let err = null;
-    let res = null;
-
-    await fetch("https://ts-api.videoready.tv/content-detail/pub/api/v1/channels?limit=700", requestOptions)
-        .then(response => response.text())
-        .then(result => res = JSON.parse(result))
-        .then(r => r)
-        .catch(error => console.log('error', error));
-
-    let obj = { err };
-    if (err === null)
-        obj.list = res.data.list;
-    return obj;
-}
-
-const getUserChanDetails = async (userChannels) => {
+const getUserChanDetails = async () => {
     let hmacValue;
     let obj = { err: null, list: [] };
 
@@ -56,8 +34,6 @@ const getUserChanDetails = async (userChannels) => {
         return obj;
     }
 
-    while (userChannels.length > 0) {
-        const chanIdsStr = userChannels.splice(0, 999).map(x => x.id).join(',');
         try {
             const response = await fetch("https://tplayapi.code-crafters.app/321codecrafters/fetcher.json");
             const cData = await response.json();
@@ -65,7 +41,7 @@ const getUserChanDetails = async (userChannels) => {
             if (cData && cData.data && Array.isArray(cData.data.channels)) {
                 const flatChannels = cData.data.channels.flat();
                 flatChannels.forEach(channel => {
-                    let firstGenre = channel.genres && channel.genres.length > 0 ? channel.genres[0] : null;
+                    let firstGenre = channel.genres[0]==="HD" ? channel.genres[1]:channel.genres[0];
                     let rearrangedChannel = {
                         id: channel.id,
                         name: channel.name,
@@ -96,7 +72,7 @@ const getUserChanDetails = async (userChannels) => {
             obj.err = error;
             return obj;
         }
-    }
+
 
     return obj;
 };
@@ -104,13 +80,7 @@ const getUserChanDetails = async (userChannels) => {
 const generateM3u = async (ud) => {
     let errs = [];
     let m3uStr = ''; // Declare m3uStr outside of the block
-
-    let allChans = await getAllChans();
-    if (allChans.err != null)
-        errs.push(allChans.err);
-
-    if (errs.length === 0) {
-        let userChanDetails = await getUserChanDetails(allChans.list);
+    let userChanDetails = await getUserChanDetails();
 
         if (userChanDetails.err === null) {
             let chansList = userChanDetails.list;
@@ -130,9 +100,5 @@ const generateM3u = async (ud) => {
         } else {
             m3uStr = userChanDetails.err ? userChanDetails.err.toString() : "Could not get channels. Try again later.";
         }
-    } else {
-        m3uStr = "Could not get channels. Try again later.";
-    }
-
     return m3uStr;
 }
