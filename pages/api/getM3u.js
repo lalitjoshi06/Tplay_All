@@ -110,10 +110,10 @@ const generateM3u = async (ud) => {
                        catup_stream_url  = catup_stream_url+ "." +splitString[i]
 
                     }
-                m3uStr += catup_stream_url + '?' +catcUpParam+"&"+ chansList[i].hma + '\n\n';
+                m3uStr += catup_stream_url + '?'+ chansList[i].hma + "&"+catcUpParam+ '\n\n';
                 }
                 else {
-                    m3uStr += chansList[i].stream_url + '?' +catcUpParam+"&"+ chansList[i].hma + '\n\n';
+                    m3uStr += chansList[i].stream_url + '?' + chansList[i].hma + "&"+catcUpParam+'\n\n';
                 }
             }
 
