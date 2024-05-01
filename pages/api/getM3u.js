@@ -119,7 +119,7 @@ const generateM3u = async (ud) => {
                 //         m3uStr += 'catchup-source="'+chansList[i].stream_url + '?'+catchupTime+'"\n';
                 //     }
                 //m3uStr+=  'catchup-days="7" catchup-correction="+5.30"\n'
-                m3uStr += chansList[i].stream_url+'|Cookie=chansList[i].hma\n\n'
+                m3uStr += chansList[i].stream_url+'|Cookie='+chansList[i].hma+'\n\n'
             }
 
             console.log('all done!');
