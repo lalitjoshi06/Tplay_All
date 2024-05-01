@@ -27,7 +27,7 @@ const getUserChanDetails = async () => {
             throw new Error('Network response was not ok');
         }
         const data = await response.json();
-        hmacValue = data.data.hmac.hdnea.value;
+        hmacValue = data.data.hmac.hdtl.value;
     } catch (error) {
         console.error('Error fetching and rearranging HMAC data:', error);
         obj.err = error;
@@ -119,7 +119,7 @@ const generateM3u = async (ud) => {
                 //         m3uStr += 'catchup-source="'+chansList[i].stream_url + '?'+catchupTime+'"\n';
                 //     }
                 //m3uStr+=  'catchup-days="7" catchup-correction="+5.30"\n'
-                m3uStr += chansList[i].stream_url+'?'+chansList[i].hma+'\n\n'
+                m3uStr += chansList[i].stream_url+'|Cookie=chansList[i].hma\n\n'
             }
 
             console.log('all done!');
