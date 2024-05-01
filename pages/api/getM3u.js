@@ -116,7 +116,7 @@ const generateM3u = async (ud) => {
                 else {
                     m3uStr += 'catchup-source="'+chansList[i].stream_url + '?'+catcUpParam+'"\n';
                 }
-                m3uStr += chansList[i].stream_url+'?'+chansList[i].hmac+'\n\n'
+                m3uStr += chansList[i].stream_url+'?'+chansList[i].hma+'\n\n'
             }
 
             console.log('all done!');
