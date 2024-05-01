@@ -81,6 +81,17 @@ const generateM3u = async (ud) => {
     let errs = [];
     let m3uStr = ''; // Declare m3uStr outside of the block
     let userChanDetails = await getUserChanDetails();
+    let ts = Date.now(); // Current timestamp in milliseconds
+    const date_time_from_ts = new Date(ts);
+    const currentDate = new Date();
+    currentDate.setDate(currentDate.getDate() - 7);
+    let todays_date = date_time_from_ts.getFullYear() + (date_time_from_ts.getMonth() + 1) + date_time_from_ts.getDate();
+console.log(formatted_date)+"T"+date_time_from_ts.getHours()+date_time_from_ts.getMinutes()+"00"
+
+    let todaysMinus7date = currentDate.getFullYear() + (currentDate.getMonth() + 1) + currentDate.getDate();
+console.log(formatted_date)+"T"+date_time_from_ts.getHours()+date_time_from_ts.getMinutes()+"00"
+
+   let catupParam= "begin="+todays_date+"&"+"end="+todaysMinus7date;
 
         if (userChanDetails.err === null) {
             let chansList = userChanDetails.list;
@@ -89,11 +100,17 @@ const generateM3u = async (ud) => {
 
             for (let i = 0; i < chansList.length; i++) {
                 m3uStr += '#EXTINF:-1 tvg-id="ts' + chansList[i].id.toString() + '" ';
-                m3uStr += 'group-title=\"' + (chansList[i].group_title) + '\", tvg-logo=\"https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/' + (chansList[i].tvg_logo) + '\", ' + chansList[i].name + '\n';
+                m3uStr += 'group-title=\"' + (chansList[i].group_title) + '\", tvg-logo=\"'+ (chansList[i].tvg_logo) + '\", ' + chansList[i].name + '\n';
                 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey\n';
                 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=' + chansList[i].clearkey + '\n';
                 m3uStr += '#EXTVLCOPT:http-user-agent=' + chansList[i].stream_headers + '\n';
-                m3uStr += chansList[i].stream_url + '?' + chansList[i].hma + '\n\n';
+                if(chansList[i].stream_url.contains('bpweb')){
+                let catup_stream_url=chansList[i].stream_url.replace("bpweb","bpprod")+"catchup"
+                m3uStr += catup_stream_url + '?' +catupParam+"&"+ chansList[i].hma + '\n\n';
+                }
+                else {
+                    m3uStr += chansList[i].stream_url + '?' +catupParam+"&"+ chansList[i].hma + '\n\n';
+                }
             }
 
             console.log('all done!');
