@@ -101,6 +101,9 @@ const generateM3u = async (ud) => {
             for (let i = 0; i < chansList.length; i++) {
                 m3uStr += '#EXTINF:-1 tvg-id="ts' + chansList[i].id.toString() + '" ';
                 m3uStr += 'group-title=\"' + (chansList[i].group_title) + '\", tvg-logo=\"'+ (chansList[i].tvg_logo) + '\", ' + chansList[i].name + '\n';
+                m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey\n';
+                m3uStr += '#KODIPROP:inputstream.adaptive.license_key=' + chansList[i].clearkey + '\n';
+                m3uStr += '#EXTVLCOPT:http-user-agent=' + chansList[i].stream_headers + '\n';
                 m3uStr += 'catchup="default" '
                 if(chansList[i].stream_url.includes("bpweb")){
                     let catup_stream_url = chansList[i].stream_url.split(".")[0].replace("bpweb","bpprod")+"catchup"
@@ -115,9 +118,6 @@ const generateM3u = async (ud) => {
                         m3uStr += 'catchup-source="'+chansList[i].stream_url + '?'+catchupTime+'"\n';
                     }
                 m3uStr+=  'catchup-days="7" catchup-correction="+5.30"\n'
-                m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey\n';
-                m3uStr += '#KODIPROP:inputstream.adaptive.license_key=' + chansList[i].clearkey + '\n';
-                m3uStr += '#EXTVLCOPT:http-user-agent=' + chansList[i].stream_headers + '\n';
                 m3uStr += chansList[i].stream_url+'?'+chansList[i].hma+'\n\n'
             }
 
