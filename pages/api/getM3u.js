@@ -101,6 +101,7 @@ const generateM3u = async (ud) => {
             for (let i = 0; i < chansList.length; i++) {
                 m3uStr += '#EXTINF:-1 tvg-id="ts' + chansList[i].id.toString() + '" ';
                 m3uStr += 'group-title=\"' + (chansList[i].group_title) + '\", tvg-logo=\"'+ (chansList[i].tvg_logo) + '\", ' + chansList[i].name + '\n';
+                m3uStr += 'catchup="shift" catchup-days="3"\n'
                 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey\n';
                 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=' + chansList[i].clearkey + '\n';
                 m3uStr += '#EXTVLCOPT:http-user-agent=' + chansList[i].stream_headers + '\n';
