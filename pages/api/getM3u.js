@@ -82,10 +82,10 @@ const generateM3u = async (ud) => {
     let m3uStr = ''; // Declare m3uStr outside of the block
     let userChanDetails = await getUserChanDetails();
     const currentDate = new Date();
-    const formattedDate = currentDate.toISOString().replace(/[-:]/g, "").slice(0, 15);
+    const formattedDate = currentDate.toISOString().replace(/[-:]/g, "").slice(0, 8)+"T060000";
     console.log(formattedDate)
     currentDate.setDate(currentDate.getDate() - 7);
-    const todayMinus7formattedDate = currentDate.toISOString().replace(/[-:]/g, "").slice(0, 15);
+    const todayMinus7formattedDate = currentDate.toISOString().replace(/[-:]/g, "").slice(0, 8)+"TO60000";
     console.log(todayMinus7formattedDate)
 
     let catcUpParam= "begin="+formattedDate+"&"+"end="+todayMinus7formattedDate;
@@ -103,18 +103,20 @@ const generateM3u = async (ud) => {
                 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey\n';
                 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=' + chansList[i].clearkey + '\n';
                 m3uStr += '#EXTVLCOPT:http-user-agent=' + chansList[i].stream_headers + '\n';
+                m3uStr +='catchup="default"'+'\n';
                 if(chansList[i].stream_url.includes("bpweb")){
-                let catup_stream_url = "https://bpweb4.akamaized.net/bpk-tv/irdeto_com_Channel_1118/output/manifest.mpd".split(".")[0].replace("bpweb","bpprod")+"catchup"
-                const splitString="https://bpweb4.akamaized.net/bpk-tv/irdeto_com_Channel_1118/output/manifest.mpd".split(".")
+                let catup_stream_url = chansList[i].stream_url.split(".")[0].replace("bpweb","bpprod")+"catchup"
+                const splitString=chansList[i].stream_url.split(".")
                     for(let i=1; i<splitString.length;i++){
                        catup_stream_url  = catup_stream_url+ "." +splitString[i]
 
                     }
-                m3uStr += catup_stream_url + '?'+ chansList[i].hma + "&"+catcUpParam+ '\n\n';
+                    m3uStr += 'catchup-source="'+catup_stream_url + '?'+catcUpParam+ '"\n';
                 }
                 else {
-                    m3uStr += chansList[i].stream_url + '?' + chansList[i].hma + "&"+catcUpParam+'\n\n';
+                    m3uStr += 'catchup-source="'+chansList[i].stream_url + '?'+catcUpParam+'"\n';
                 }
+                m3uStr += chansList[i].stream_url+'?'+chansList[i].hmac+'\n\n'
             }
 
             console.log('all done!');
