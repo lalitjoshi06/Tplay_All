@@ -104,7 +104,7 @@ const generateM3u = async (ud) => {
                 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey\n';
                 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=' + chansList[i].clearkey + '\n';
                 m3uStr += '#EXTVLCOPT:http-user-agent=' + chansList[i].stream_headers + '\n';
-                m3uStr += 'catchup="default" '
+               // m3uStr += 'catchup="default" '
                 if(chansList[i].stream_url.includes("bpweb")){
                     let catup_stream_url = chansList[i].stream_url.split(".")[0].replace("bpweb","bpprod")+"catchup"
                     const splitString=chansList[i].stream_url.split(".")
@@ -117,7 +117,7 @@ const generateM3u = async (ud) => {
                     else {
                         m3uStr += 'catchup-source="'+chansList[i].stream_url + '?'+catchupTime+'"\n';
                     }
-                m3uStr+=  'catchup-days="7" catchup-correction="+5.30"\n'
+                //m3uStr+=  'catchup-days="7" catchup-correction="+5.30"\n'
                 m3uStr += chansList[i].stream_url+'?'+chansList[i].hma+'\n\n'
             }
 
