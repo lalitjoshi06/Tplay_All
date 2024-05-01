@@ -89,7 +89,9 @@ const generateM3u = async (ud) => {
 
     let todaysMinus7date = currentDate.getFullYear() + (currentDate.getMonth() + 1) + currentDate.getDate()+"T"+date_time_from_ts.getHours()+date_time_from_ts.getMinutes()+"00"
 
-   let catupParam= "begin="+todays_date+"&"+"end="+todaysMinus7date;
+    let catupParam= "begin="+todays_date+"&"+"end="+todaysMinus7date;
+
+    console.log(catupParam);
 
         if (userChanDetails.err === null) {
             let chansList = userChanDetails.list;
