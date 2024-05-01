@@ -83,10 +83,10 @@ const generateM3u = async (ud) => {
     let userChanDetails = await getUserChanDetails();
     let ts = Date.now(); // Current timestamp in milliseconds
     const date_time_from_ts = new Date(ts);
+
+    let todays_date = date_time_from_ts.getFullYear() + (date_time_from_ts.getMonth() + 1) + date_time_from_ts.getDate()+"T"+date_time_from_ts.getHours()+date_time_from_ts.getMinutes()+"00"
     const currentDate = new Date();
     currentDate.setDate(currentDate.getDate() - 7);
-    let todays_date = date_time_from_ts.getFullYear() + (date_time_from_ts.getMonth() + 1) + date_time_from_ts.getDate()+"T"+date_time_from_ts.getHours()+date_time_from_ts.getMinutes()+"00"
-
     let todaysMinus7date = currentDate.getFullYear() + (currentDate.getMonth() + 1) + currentDate.getDate()+"T"+date_time_from_ts.getHours()+date_time_from_ts.getMinutes()+"00"
 
     let catupParam= "begin="+todays_date+"&"+"end="+todaysMinus7date;
