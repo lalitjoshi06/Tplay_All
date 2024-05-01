@@ -104,7 +104,7 @@ const generateM3u = async (ud) => {
                 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey\n';
                 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=' + chansList[i].clearkey + '\n';
                 m3uStr += '#EXTVLCOPT:http-user-agent=' + chansList[i].stream_headers + '\n';
-                if(chansList[i].stream_url.contains('bpweb')){
+                if(chansList[i].stream_url.includes("bpweb")){
                 let catup_stream_url=chansList[i].stream_url.replace("bpweb","bpprod")+"catchup"
                 m3uStr += catup_stream_url + '?' +catupParam+"&"+ chansList[i].hma + '\n\n';
                 }
