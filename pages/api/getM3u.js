@@ -81,17 +81,16 @@ const generateM3u = async (ud) => {
     let errs = [];
     let m3uStr = ''; // Declare m3uStr outside of the block
     let userChanDetails = await getUserChanDetails();
-    let ts = Date.now(); // Current timestamp in milliseconds
-    const date_time_from_ts = new Date(ts);
-
-    let todays_date = date_time_from_ts.getFullYear() + (date_time_from_ts.getMonth() + 1) + date_time_from_ts.getDate()+"T"+date_time_from_ts.getHours()+date_time_from_ts.getMinutes()+"00"
     const currentDate = new Date();
+    const formattedDate = currentDate.toISOString().replace(/[-:]/g, "").slice(0, 15);
+    console.log(formattedDate)
     currentDate.setDate(currentDate.getDate() - 7);
-    let todaysMinus7date = currentDate.getFullYear() + (currentDate.getMonth() + 1) + currentDate.getDate()+"T"+date_time_from_ts.getHours()+date_time_from_ts.getMinutes()+"00"
+    const todayMinus7formattedDate = currentDate.toISOString().replace(/[-:]/g, "").slice(0, 15);
+    console.log(todayMinus7formattedDate)
 
-    let catupParam= "begin="+todays_date+"&"+"end="+todaysMinus7date;
+    let catcUpParam= "begin="+formattedDate+"&"+"end="+todayMinus7formattedDate;
 
-    console.log(catupParam);
+    console.log(catcUpParam);
 
         if (userChanDetails.err === null) {
             let chansList = userChanDetails.list;
@@ -105,11 +104,16 @@ const generateM3u = async (ud) => {
                 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=' + chansList[i].clearkey + '\n';
                 m3uStr += '#EXTVLCOPT:http-user-agent=' + chansList[i].stream_headers + '\n';
                 if(chansList[i].stream_url.includes("bpweb")){
-                let catup_stream_url=chansList[i].stream_url.replace("bpweb","bpprod")+"catchup"
-                m3uStr += catup_stream_url + '?' +catupParam+"&"+ chansList[i].hma + '\n\n';
+                let catup_stream_url = "https://bpweb4.akamaized.net/bpk-tv/irdeto_com_Channel_1118/output/manifest.mpd".split(".")[0].replace("bpweb","bpprod")+"catchup"
+                const splitString="https://bpweb4.akamaized.net/bpk-tv/irdeto_com_Channel_1118/output/manifest.mpd".split(".")
+                    for(let i=1; i<splitString.length;i++){
+                       catup_stream_url  = catup_stream_url+ "." +splitString[i]
+
+                    }
+                m3uStr += catup_stream_url + '?' +catcUpParam+"&"+ chansList[i].hma + '\n\n';
                 }
                 else {
-                    m3uStr += chansList[i].stream_url + '?' +catupParam+"&"+ chansList[i].hma + '\n\n';
+                    m3uStr += chansList[i].stream_url + '?' +catcUpParam+"&"+ chansList[i].hma + '\n\n';
                 }
             }
 
