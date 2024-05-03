@@ -43,19 +43,22 @@ const getUserChanDetails = async () => {
 
             if (cData && cData.data && Array.isArray(cData.data.channels) && Array.isArray(newChannelData)) {
                 const channels = cData.data.channels;
+                
                 for(let i=0; i<channels.length;i++) {
+                    let streamingUrl;
+                    if (channels[i].id=='24'){
+                         streamingUrl= newChannelData[i].manifest_url
+                        }
+                        else{
+                        streamingUrl: channels[i].manifest_url
+                        }
                     let rearrangedChannel = {
                         id: channels[i].id,
                         name: channels[i].name,
                         tvg_id: channels[i].tvg_id,
                         group_title: newChannelData[i].genres[0],
                         tvg_logo: newChannelData[i].logo_url,
-                        if (channels[i].id=='24'){
-                         tream_url: newChannelData[i].manifest_url   
-                        }
-                        else{
-                        stream_url: channels[i].manifest_url
-                        },
+                        stream_url: streamingUrl,
                         license_url: channels[i].license_url,
                         stream_headers: channels[i].manifest_headers ? (channels[i].manifest_headers['User-Agent'] || JSON.stringify(channels[i].manifest_headers)) : null,
                         drm: channels[i].drm,
