@@ -43,14 +43,14 @@ const getUserChanDetails = async () => {
 
             if (cData && cData.data && Array.isArray(cData.data.channels) && Array.isArray(newChannelData)) {
                 const channels = cData.data.channels;
-                
+                 
                 for(let i=0; i<channels.length;i++) {
                     let streamingUrl;
                     if (channels[i].id=='24'){
                          streamingUrl= newChannelData[i].manifest_url
                         }
                         else{
-                        streamingUrl: channels[i].manifest_url
+                        streamingUrl= channels[i].manifest_url
                         }
                     let rearrangedChannel = {
                         id: channels[i].id,
