@@ -130,7 +130,7 @@ const generateM3u = async (ud) => {
                 //     }
                 //m3uStr+=  'catchup-days="7" catchup-correction="+5.30"\n'
                 if (chansList[i].id=="24"){
-                    m3uStr += chansList[i].stream_url'\n\n';
+                    m3uStr += chansList[i].stream_url+'\n\n';
                 }
                 else
                 {
