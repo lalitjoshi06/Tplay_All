@@ -99,7 +99,7 @@ const generateM3u = async (ud) => {
     console.log(todayMinus7formattedDate)
 
     let catcUpParam= `begin=${formattedDate}&end=${todayMinus7formattedDate}`;
-     let catchupTime= "begin={utc:{Y}{m}{d}T{H}{M}{S}}&end=${end:{Y}{m}{d}T{H}{M}{S}}"
+    let catchupTime= "begin={utc:{Y}{m}{d}T{H}{M}{S}}&end=${end:{Y}{m}{d}T{H}{M}{S}}"
 
     console.log(catcUpParam);
 
@@ -130,11 +130,11 @@ const generateM3u = async (ud) => {
                 //     }
                 //m3uStr+=  'catchup-days="7" catchup-correction="+5.30"\n'
                 if (chansList[i].id=="24"){
-                    m3uStr += chansList[i].stream_url'\n\n'
+                    m3uStr += chansList[i].stream_url'\n\n';
                 }
                 else
                 {
-                m3uStr += chansList[i].stream_url+'|Cookie='+chansList[i].hma+'\n\n'
+                m3uStr += chansList[i].stream_url+'|Cookie='+chansList[i].hma+'\n\n';
                 }
             }
 
