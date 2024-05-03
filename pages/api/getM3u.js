@@ -50,7 +50,12 @@ const getUserChanDetails = async () => {
                         tvg_id: channels[i].tvg_id,
                         group_title: newChannelData[i].genres[0],
                         tvg_logo: newChannelData[i].logo_url,
-                        stream_url: channels[i].manifest_url,
+                        if (channels[i].id=='24'){
+                         tream_url: newChannelData[i].manifest_url   
+                        }
+                        else{
+                        stream_url: channels[i].manifest_url
+                        },
                         license_url: channels[i].license_url,
                         stream_headers: channels[i].manifest_headers ? (channels[i].manifest_headers['User-Agent'] || JSON.stringify(channels[i].manifest_headers)) : null,
                         drm: channels[i].drm,
@@ -121,7 +126,13 @@ const generateM3u = async (ud) => {
                 //         m3uStr += 'catchup-source="'+chansList[i].stream_url + '?'+catchupTime+'"\n';
                 //     }
                 //m3uStr+=  'catchup-days="7" catchup-correction="+5.30"\n'
+                if (chansList[i].id=="24"){
+                    m3uStr += chansList[i].stream_url'\n\n'
+                }
+                else
+                {
                 m3uStr += chansList[i].stream_url+'|Cookie='+chansList[i].hma+'\n\n'
+                }
             }
 
             console.log('all done!');
