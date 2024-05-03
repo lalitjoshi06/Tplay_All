@@ -38,30 +38,32 @@ const getUserChanDetails = async () => {
             const response = await fetch("https://tplayapi.code-crafters.app/321codecrafters/fetcher.json");
             const cData = await response.json();
 
-            if (cData && cData.data && Array.isArray(cData.data.channels)) {
-                const flatChannels = cData.data.channels.flat();
-                flatChannels.forEach(channel => {
-                    let firstGenre = channel.genres[0]==="HD" ? channel.genres[1]:channel.genres[0];
+            const response1 = await fetch("https://raw.githubusercontent.com/AjitGE/tataChannelsDetails/main/allChannels.json");
+            const newChannelData = await response1.json();
+
+            if (cData && cData.data && Array.isArray(cData.data.channels) && Array.isArray(newChannelData)) {
+                const channels = cData.data.channels;
+                for(let i=0; i<channels.length;i++) {
                     let rearrangedChannel = {
-                        id: channel.id,
-                        name: channel.name,
-                        tvg_id: channel.tvg_id,
-                        group_title: firstGenre,
-                        tvg_logo: channel.logo_url,
-                        stream_url: channel.manifest_url,
-                        license_url: channel.license_url,
-                        stream_headers: channel.manifest_headers ? (channel.manifest_headers['User-Agent'] || JSON.stringify(channel.manifest_headers)) : null,
-                        drm: channel.drm,
-                        is_mpd: channel.is_mpd,
-                        kid_in_mpd: channel.kid_in_mpd,
-                        hmac_required: channel.hmac_required,
-                        key_extracted: channel.key_extracted,
-                        pssh: channel.pssh,
-                        clearkey: channel.clearkeys ? JSON.stringify(channel.clearkeys[0].base64) : null,
+                        id: channels[i].id,
+                        name: channels[i].name,
+                        tvg_id: channels[i].tvg_id,
+                        group_title: newChannelData[i].genres[0],
+                        tvg_logo: newChannelData[i].logo_url,
+                        stream_url: channels[i].manifest_url,
+                        license_url: channels[i].license_url,
+                        stream_headers: channels[i].manifest_headers ? (channels[i].manifest_headers['User-Agent'] || JSON.stringify(channels[i].manifest_headers)) : null,
+                        drm: channels[i].drm,
+                        is_mpd: channels[i].is_mpd,
+                        kid_in_mpd: channels[i].kid_in_mpd,
+                        hmac_required: channels[i].hmac_required,
+                        key_extracted: channels[i].key_extracted,
+                        pssh: channels[i].pssh,
+                        clearkey: channels[i].clearkeys ? JSON.stringify(channels[i].clearkeys[0].base64) : null,
                         hma: hmacValue
                     };
                     obj.list.push(rearrangedChannel);
-                });
+                }
             } else {
                 console.error('Invalid data structure or channels is not an array:', cData);
                 obj.err = 'Invalid data structure';
