@@ -9,7 +9,7 @@ const getUserChanDetails = async () => {
     try {
         const responseHmac = await fetch("https://tplayapi.code-crafters.app/321codecrafters/hmac.json");
         const data = await responseHmac.json();
-        hmacValue = data.data.hmac.hdtl.value;
+        hmacValue = data.data.hmac.hdnea.value;
     } catch (error) {
         console.error('Error fetching and rearranging HMAC data:', error);
         return obj;
@@ -60,15 +60,14 @@ const generateM3u = async (ud) => {
 
     m3uStr = '#EXTM3U x-tvg-url="https://raw.githubusercontent.com/mitthu786/tvepg/main/tataplay/epg.xml.gz"\n\n';
 
-  for (let i = 0; i < chansList.length; i++) {
-    m3uStr += '#EXTINF:-1 tvg-id="' + chansList[i].id.toString() + '" ';
-    m3uStr += 'group-title="' + (chansList[i].group_title) + '", tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/' + (chansList[i].tvg_logo) + '", ' + chansList[i].name + '\n';
-    m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey\n';
-    m3uStr += '#KODIPROP:inputstream.adaptive.license_key=' + chansList[i].clearkey + '\n';
-    m3uStr += '#EXTVLCOPT:http-user-agent=' + chansList[i].stream_headers + '\n';
-    m3uStr += '#EXTHTTP:{"cookie":"' + chansList[i].hma + '"}\n';
-    m3uStr += chansList[i].stream_url + '\n\n';
-}
+    for (let i = 0; i < chansList.length; i++) {
+        m3uStr += '#EXTINF:-1 tvg-id="' + chansList[i].id.toString() + '" ';
+        m3uStr += 'group-title="' + (chansList[i].group_title) + '", tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/' + (chansList[i].tvg_logo) + '", ' + chansList[i].name + '\n';
+        m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey\n';
+        m3uStr += '#KODIPROP:inputstream.adaptive.license_key=' + chansList[i].clearkey + '\n';
+        m3uStr += '#EXTVLCOPT:http-user-agent=' + chansList[i].stream_headers + '\n';
+        m3uStr += chansList[i].stream_url + '?' + chansList[i].hma + '\n\n';
+    }
 
     console.log('all done!');
     return m3uStr;
