@@ -20,7 +20,7 @@ a) npm install<br>
 b) npm run dev
 3) Enjoy!
 
-## Note : **use this playlist on OTT Navigator and set to reload data to 10 min bcz hmac expires in every 10 min for most of channels.           
+## Note : **use this playlist on OTT Navigator and set to reload data to 2.5 hours key expires in 2.5 to 24 hours for most of channels.           
         
 Special thanks to CodeCrafters for their API.
 
