@@ -74,14 +74,14 @@ export default function Home() {
                   You can use the above m3u URL in OTT Navigator or Tivimate app to watch all channels.
                 </p>
                 <p>
-                  Set reload data to 10 Min in provider setting of Ott Navigator player &  Enjoy!
+                  Set reload data to 2.5 hour in provider setting of Ott Navigator player &  Enjoy!
                 </p>
                 <Message.Header>You cannot generate a permanent m3u file URL on localhost but you can download your m3u file: </Message.Header>
                 <p></p>
                 <p>
                   <Button loading={downloading} primary onClick={() => downloadM3uFile('ts.m3u')}>Download m3u file</Button>
                 </p>
-                <p>The downloaded m3u file will be valid only for 10 Minutes.</p>
+                <p>The downloaded m3u file will be valid only for 2.5 Hours to 24 Hours.</p>
               </Message>
             </Segment>
           </Grid.Column>
