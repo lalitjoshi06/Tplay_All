@@ -69,7 +69,6 @@ const generateM3u = async (ud) => {
         m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
         m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey\n';
         m3uStr += '#KODIPROP:inputstream.adaptive.license_key=' + chansList[i].clearkey + '\n';
-        //m3uStr += '#EXTHTTP:{"cookie":"' + chansList[i].hma + '"}\n';
         m3uStr += chansList[i].stream_url + '|cookie:' + chansList[i].hma'\n\n';
 }
 
