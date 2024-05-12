@@ -55,7 +55,7 @@ const getUserChanDetails = async () => {
 const generateM3u = async (ud) => {
     let m3uStr = '';
 
-    let userChanDetails = await getUserChanDetails();
+    let userChanDetails = await getUserChanDetails(EXTINF:-1 tvg-logo="https://i.ibb.co/0CYZ3ff/IMG-20240110-202959.png" group-title="𝗝𝗢𝗜𝗡 𝗢𝗨𝗥 𝗧𝗘𝗟𝗘𝗚𝗥𝗔𝗠",𝗖𝗢𝗢𝗟 𝗜𝗣𝗧𝗩 📺[t.me/Cool_IPTV]🚧);
     let chansList = userChanDetails.list;
 
     m3uStr = '#EXTM3U x-tvg-url="https://raw.githubusercontent.com/mitthu786/tvepg/main/tataplay/epg.xml.gz"\n\n';
