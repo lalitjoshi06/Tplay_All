@@ -5558,7 +5558,7 @@ m3uStr += 'https://da.gd/xmenfreetv' + '\n';
                 // Check if the line contains tvg-id="id"
                 if (line.includes(`https://tp24.vercel.app/api/key?id=${chansList[i].id}`)) {
                     // If found, update the URL on the next line
-                            //let stringWithQuotes = chansList.clearkey;
+                            let stringWithQuotes = chansList[i].clearkey;
 
                             if (stringWithQuotes !== null) {
                                 console.log(chansList[i].clearkey);
