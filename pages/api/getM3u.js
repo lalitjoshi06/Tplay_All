@@ -21,7 +21,7 @@ const getUserChanDetails = async () => {
             flatChannels.forEach(channel => {
                 let rearrangedChannel = {
                     id: channel.id,
-                    clearkey: channel.clearkeys ? JSON.stringify(channel.clearkeys[0].hex) : null,
+                    clearkey: channel.clearkeys ? channel.clearkeys[0].hex : null,
                     hmac: hmacValue
                 };
                 obj.list.push(rearrangedChannel);
@@ -5558,15 +5558,15 @@ m3uStr += 'https://da.gd/xmenfreetv' + '\n';
                 // Check if the line contains tvg-id="id"
                 if (line.includes(`https://tp24.vercel.app/api/key?id=${chansList[i].id}`)) {
                     // If found, update the URL on the next line
-                            let stringWithQuotes = chansList.clearkey;
+                            //let stringWithQuotes = chansList.clearkey;
 
                             if (stringWithQuotes !== null) {
-                                console.log(stringWithQuotes);
+                                console.log(chansList[i].clearkey);
                                 //let stringWithoutQuotes = stringWithQuotes.replace(/^"(.*)"$/, '$1');
                                 //lines[j] = `#KODIPROP:inputstream.adaptive.license_key=${stringWithoutQuotes}`;
                                 break;
                             }
-                        lines[j] = `#KODIPROP:inputstream.adaptive.license_key=${chansList.clearkey}`;
+                        lines[j] = `#KODIPROP:inputstream.adaptive.license_key=${chansList[i].clearkey}`;
                         break;
                     }
                 }
