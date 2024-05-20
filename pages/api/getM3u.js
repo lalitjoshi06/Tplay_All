@@ -57,7 +57,7 @@ m3uStr += '#EXTINF:-1 tvg-id="959" group-title="Entertainment" tvg-country="IN" 
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=959' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1785/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1785/output/manifest.mpd' + '\n';
 
 
 
@@ -65,7 +65,7 @@ m3uStr += '#EXTINF:-1 tvg-id="986" group-title="Entertainment" tvg-country="IN" 
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=986' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1813/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1813/output/manifest.mpd' + '\n';
 
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/jp.php?contentID=&key' + '\n';
@@ -78,7 +78,7 @@ m3uStr += '#EXTINF:-1 tvg-id="8" group-title=" Entertainment" tvg-country="IN" t
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=8' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_257/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_257/output/manifest.mpd' + '\n';
 
 
 
@@ -94,7 +94,7 @@ m3uStr += '#EXTINF:-1 tvg-id="121" group-title="Lifestyle" tvg-country="IN" tvg-
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=121' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_209/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_209/output/manifest.mpd' + '\n';
 
 
 
@@ -102,7 +102,7 @@ m3uStr += '#EXTINF:-1 tvg-id="641" group-title="Lifestyle" tvg-country="IN" tvg-
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=641' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_876/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_876/output/manifest.mpd' + '\n';
 
 
 
@@ -115,7 +115,7 @@ m3uStr += 'https://delta45tatasky.akamaized.net/out/i/554.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="618" group-title="Lifestyle" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12282-ja02jlp4-v2/imageContent-12282-ja02jlp4-m2.png",Tata Play Beauty' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_853/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_853/output/manifest.mpd' + '\n';
 
 
 
@@ -123,7 +123,7 @@ m3uStr += '#EXTINF:-1 tvg-id="15" group-title="Entertainment" tvg-country="IN" t
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=15' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_300/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_300/output/manifest.mpd' + '\n';
 
 
 
@@ -132,7 +132,7 @@ m3uStr += '#EXTINF:-1 tvg-id="556" group-title="Entertainment" tvg-country="IN" 
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=556' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_125/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_125/output/manifest.mpd' + '\n';
 
 
 
@@ -141,7 +141,7 @@ m3uStr += '#EXTINF:-1 tvg-id="48" group-title="Entertainment" tvg-country="IN" t
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=48' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod7catchup.akamaized-staging.net/bpk-tv/irdeto_com_Channel_307/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod7catchup.akamaized-staging.net/bpk-tv/irdeto_com_Channel_307/output/manifest.mpd' + '\n';
 
 
 
@@ -149,7 +149,7 @@ m3uStr += '#EXTINF:-1 tvg-id="559" group-title="Entertainment" tvg-country="IN" 
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=559' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_126/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_126/output/manifest.mpd' + '\n';
 
 
 
@@ -157,7 +157,7 @@ m3uStr += '#EXTINF:-1 tvg-id="40" group-title=" Entertainment" tvg-country="IN" 
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=40' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_303/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_303/output/manifest.mpd' + '\n';
 
 
 
@@ -165,7 +165,7 @@ m3uStr += '#EXTINF:-1 tvg-id="63" group-title=" Entertainment" tvg-country="IN" 
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=63' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_258/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_258/output/manifest.mpd' + '\n';
 
 
 
@@ -173,7 +173,7 @@ m3uStr += '#EXTINF:-1 tvg-id="557" group-title="Entertainment" tvg-country="IN" 
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=557' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_182/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_182/output/manifest.mpd' + '\n';
 
 
 
@@ -181,7 +181,7 @@ m3uStr += '#EXTINF:-1 tvg-id="244" group-title=" Entertainment" tvg-country="IN"
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=244' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_411/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_411/output/manifest.mpd' + '\n';
 
 
 
@@ -189,14 +189,14 @@ m3uStr += '#EXTINF:-1 tvg-id="52" tvg-logo="https://mediaready.videoready.tv/tat
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=52' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_299/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_299/output/manifest.mpd' + '\n';
 
     
 m3uStr += '#EXTINF:-1 tvg-id="543" group-title="Entertainment" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12053-j9o3yhko-v1/imageContent-12053-j9o3yhko-m1.png",Colors' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=543' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_101/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_101/output/manifest.mpd' + '\n';
 
 
 
@@ -204,7 +204,7 @@ m3uStr += '#EXTINF:-1 tvg-id="95" group-title="Entertainment" tvg-country="IN" t
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=95' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_192/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_192/output/manifest.mpd' + '\n';
 
 
 
@@ -212,7 +212,7 @@ m3uStr += '#EXTINF:-1 tvg-id="142" group-title="Entertainment" tvg-country="IN" 
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=142' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_103/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_103/output/manifest.mpd' + '\n';
 
 
 
@@ -220,7 +220,7 @@ m3uStr += '#EXTINF:-1 tvg-id="964" group-title="Entertainment" tvg-country="IN" 
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=964' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1790/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1790/output/manifest.mpd' + '\n';
 
 
 
@@ -228,7 +228,7 @@ m3uStr += '#EXTINF:-1 tvg-id="551" group-title="Entertainment" tvg-country="IN" 
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=551' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_122/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_122/output/manifest.mpd' + '\n';
 
 
 
@@ -236,7 +236,7 @@ m3uStr += '#EXTINF:-1 tvg-id="943" group-title="Entertainment" tvg-country="IN" 
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=943' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1774/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1774/output/manifest.mpd' + '\n';
 
 
 
@@ -244,7 +244,7 @@ m3uStr += '#EXTINF:-1 tvg-id="523" group-title=" Entertainment" tvg-country="IN"
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=523' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_826/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_826/output/manifest.mpd' + '\n';
 
 
 
@@ -252,7 +252,7 @@ m3uStr += '#EXTINF:-1 tvg-id="633" group-title="Knowledge" tvg-country="IN" tvg-
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=633' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_867/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_867/output/manifest.mpd' + '\n';
 
 
 
@@ -260,7 +260,7 @@ m3uStr += '#EXTINF:-1 tvg-id="2100" group-title="Knowledge" tvg-country="IN" tvg
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=2100' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_2056/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_2056/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 group-title=" Entertainment" tvg-logo="https://i.postimg.cc/0ySqBsQM/240px-Sony-Kal-Logo.jpg",Sony Kal' + '\n';
@@ -271,14 +271,14 @@ m3uStr += '#EXTINF:-1 tvg-id="438" group-title=" Entertainment" tvg-country="IN"
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=438' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_694/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_694/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="554" group-title=" Entertainment" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12071-j9oa4gbc-v5/imageContent-12071-j9oa4gbc-m4.png",Sony Pal' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=554' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_193/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_193/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="474" group-title=" Entertainment" tvg-country="IN" tvg-logo="https://www.indiantvinfo.com/media/2022/10/Sony-PAL-New-Logo.png",Sony pal HD' + '\n';
@@ -290,7 +290,7 @@ m3uStr += '#EXTINF:-1 tvg-id="54" group-title="Entertainment" tvg-country="IN" t
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=54' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_274/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_274/output/manifest.mpd' + '\n';
 
 
 
@@ -298,7 +298,7 @@ m3uStr += '#EXTINF:-1 tvg-id="297" group-title="Entertainment" tvg-country="IN" 
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=297' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_476/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_476/output/manifest.mpd' + '\n';
 
 
 
@@ -314,7 +314,7 @@ m3uStr += '#EXTINF:-1 tvg-id="51" group-title="Entertainment" tvg-country="IN" t
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=51' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_351/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_351/output/manifest.mpd' + '\n';
 
 
 
@@ -322,7 +322,7 @@ m3uStr += '#EXTINF:-1 tvg-id="818" group-title="Entertainment" tvg-country="IN" 
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=818' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1114/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1114/output/manifest.mpd' + '\n';
 
 
 
@@ -330,7 +330,7 @@ m3uStr += '#EXTINF:-1 tvg-id="180" group-title="Entertainment" tvg-country="IN" 
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=180' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_370/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_370/output/manifest.mpd' + '\n';
 
 
 
@@ -338,7 +338,7 @@ m3uStr += '#EXTINF:-1 tvg-id="191" group-title=" Entertainment" tvg-country="IN"
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=191' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_140/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_140/output/manifest.mpd' + '\n';
 
 
 
@@ -346,7 +346,7 @@ m3uStr += '#EXTINF:-1 tvg-id="1045" group-title="Others" tvg-country="IN" tvg-lo
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=1045' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1865/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1865/output/manifest.mpd' + '\n';
 
 
 
@@ -354,7 +354,7 @@ m3uStr += '#EXTINF:-1 tvg-id="888" group-title="Entertainment" tvg-country="IN" 
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=888' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1300/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1300/output/manifest.mpd' + '\n';
 
 
 
@@ -362,7 +362,7 @@ m3uStr += '#EXTINF:-1 tvg-id="808" group-title="Entertainment" tvg-country="IN" 
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=808' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_998/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_998/output/manifest.mpd' + '\n';
 
 
 
@@ -370,7 +370,7 @@ m3uStr += '#EXTINF:-1 tvg-id="326" group-title="Knowledge" tvg-country="IN" tvg-
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=326' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_510/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_510/output/manifest.mpd' + '\n';
 
 
 
@@ -378,7 +378,7 @@ m3uStr += '#EXTINF:-1 tvg-id="187" group-title="Entertainment" tvg-country="IN" 
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=187' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_304/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_304/output/manifest.mpd' + '\n';
 
 
 
@@ -386,7 +386,7 @@ m3uStr += '#EXTINF:-1 tvg-id="307" group-title="Entertainment" tvg-country="IN" 
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=307' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_494/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_494/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="189" tvg-logo="https://provider-static.plex.tv/epg/cms/production/aca5fb4a-3f31-4527-82d4-80b718821f1f/ShemarooBollywood_logo_dark_-_Shemaroo_USArdx.png" group-title="Movies",SHEMAROO BOLLYWOOD HD' + '\n';
@@ -418,7 +418,7 @@ m3uStr += '#EXTINF:-1 tvg-id="486" group-title="Movies" tvg-country="IN" tvg-log
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=486' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_792/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_792/output/manifest.mpd' + '\n';
 
 
 
@@ -426,7 +426,7 @@ m3uStr += '#EXTINF:-1 tvg-id="741" group-title=" Movies" tvg-country="IN" tvg-lo
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=741' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1630/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1630/output/manifest.mpd' + '\n';
 
 
 
@@ -434,7 +434,7 @@ m3uStr += '#EXTINF:-1 tvg-id="789" group-title=" Movies" tvg-country="IN" tvg-lo
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=789' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_980/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_980/output/manifest.mpd' + '\n';
 
 
 
@@ -442,7 +442,7 @@ m3uStr += '#EXTINF:-1 tvg-id="666" group-title=" Movies" tvg-country="IN" tvg-lo
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=666' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_899/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_899/output/manifest.mpd' + '\n';
 
 
 
@@ -450,7 +450,7 @@ m3uStr += '#EXTINF:-1 tvg-id="677" group-title="Movies" tvg-country="IN" tvg-log
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=677' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_902/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_902/output/manifest.mpd' + '\n';
 
 
 
@@ -458,7 +458,7 @@ m3uStr += '#EXTINF:-1 tvg-id="1260" group-title=" Movies" tvg-country="IN" tvg-l
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=1260' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_2047/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_2047/output/manifest.mpd' + '\n';
 
 
 
@@ -466,7 +466,7 @@ m3uStr += '#EXTINF:-1 tvg-id="306" group-title="Entertainment" tvg-country="IN" 
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=306' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_493/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_493/output/manifest.mpd' + '\n';
 
 
 
@@ -474,7 +474,7 @@ m3uStr += '#EXTINF:-1 tvg-id="1101" group-title="Others" tvg-country="IN" tvg-lo
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=1101' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1914/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1914/output/manifest.mpd' + '\n';
 
 
 
@@ -482,7 +482,7 @@ m3uStr += '#EXTINF:-1 tvg-id="245" group-title=" Movies" tvg-country="IN" tvg-lo
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=245' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_412/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_412/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="bj23" group-title="Movies"tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572f159dc5dfc4403f7be15/images/187.webp",Star Gold' + '\n';
@@ -514,7 +514,7 @@ m3uStr += '#EXTINF:-1 tvg-id="1130" group-title="Others" tvg-country="IN" tvg-lo
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=1130' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1924/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1924/output/manifest.mpd' + '\n';
 
 
 
@@ -522,14 +522,14 @@ m3uStr += '#EXTINF:-1 tvg-id="503" group-title="Movies" tvg-country="IN" tvg-log
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=503' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_827/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_827/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="123" group-title="Movies" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11027-j8yjr8k0-v1/imageContent-11027-j8yjr8k0-m1.png",Zee Cinema' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=123' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_185/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_185/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="123" group-title="Movies" tvg-country="IN" tvg-logo="https://distro.tv/desi-eu/img/Bollywood-Prime-thumbnail.png",Bollywood Prime' + '\n';
@@ -550,7 +550,7 @@ m3uStr += '#EXTINF:-1 tvg-id="1258" group-title="Others" tvg-country="IN" tvg-lo
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=1258' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_2045/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_2045/output/manifest.mpd' + '\n';
 
 
 
@@ -558,7 +558,7 @@ m3uStr += '#EXTINF:-1 tvg-id="544" group-title="Entertainment" tvg-country="IN" 
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=544' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod1catchup.akamaized.net/bpk-tv/irdeto_com_Channel_202/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod1catchup.akamaized.net/bpk-tv/irdeto_com_Channel_202/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="" group-title="Entertainment" tvg-country="IN" tvg-logo="https://a.jsrdn.com/hls/23141/shemaroo-umang-plus/logo_20240206_191005_68.png",Shemaroo UMANG Plus' + '\n';
@@ -569,14 +569,14 @@ m3uStr += '#EXTINF:-1 tvg-id="132" group-title="Movies" tvg-country="IN" tvg-log
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=120' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_198/output/manifest.mpd?begin=20240513T010000&end=' + '\n';    
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_198/output/manifest.mpd' + '\n';    
 
 
 m3uStr += '#EXTINF:-1 tvg-id="80" group-title="Movies" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-243-j5fyl2f4-v3/imageContent-243-j5fyl2f4-m4.png",SONY MAX HD' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=80' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_305/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_305/output/manifest.mpd' + '\n';
 
 
 
@@ -584,7 +584,7 @@ m3uStr += '#EXTINF:-1 tvg-id="175" group-title=" Movies" tvg-country="IN" tvg-lo
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=175' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_204/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_204/output/manifest.mpd' + '\n';
 
 
 
@@ -592,7 +592,7 @@ m3uStr += '#EXTINF:-1 tvg-id="727" group-title=" Movies" tvg-country="IN" tvg-lo
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=727' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_955/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_955/output/manifest.mpd' + '\n';
 
 
 
@@ -600,7 +600,7 @@ m3uStr += '#EXTINF:-1 tvg-id="100" group-title=" Movies" tvg-country="IN" tvg-lo
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=100' + '\n';
-m3uStr += 'https://tataplay.dinesh29.com.np/live/tataplay/zee-action/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tataplay.dinesh29.com.np/live/tataplay/zee-action/manifest.mpd' + '\n';
 
 
 
@@ -608,14 +608,14 @@ m3uStr += '#EXTINF:-1 tvg-id="64" group-title=" Movies" tvg-country="IN" tvg-log
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=64' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_387/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_387/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="267" group-title=" Movies" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11173-j9hth720-v1/imageContent-11173-j9hth720-m1.png",&pictures HD' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=267' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_454/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_454/output/manifest.mpd' + '\n';
 
 
 
@@ -623,7 +623,7 @@ m3uStr += '#EXTINF:-1 tvg-id="148" group-title="Movies" tvg-country="IN" tvg-log
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=148' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_203/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_203/output/manifest.mpd' + '\n';
 
 
 
@@ -631,7 +631,7 @@ m3uStr += '#EXTINF:-1 tvg-id="61" group-title=" Movies" tvg-country="IN" tvg-log
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=61' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_385/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_385/output/manifest.mpd' + '\n';
 
 
 
@@ -639,7 +639,7 @@ m3uStr += '#EXTINF:-1 tvg-id="53" group-title=" Movies" tvg-country="IN" tvg-log
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=53' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_384/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_384/output/manifest.mpd' + '\n';
 
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/jp.php?contentID=&key' + '\n';
@@ -652,7 +652,7 @@ m3uStr += '#EXTINF:-1 tvg-id="1000" group-title=" Movies" tvg-country="IN" tvg-l
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=1000' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1827/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1827/output/manifest.mpd' + '\n';
 
 
 
@@ -660,7 +660,7 @@ m3uStr += '#EXTINF:-1 tvg-id=ts1183 tvg-logo="https://mediaready.videoready.tv/t
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=1183' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod1catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1963/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod1catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1963/output/manifest.mpd' + '\n';
 
 
 
@@ -668,7 +668,7 @@ m3uStr += '#EXTINF:-1 tvg-id="56" group-title="Movies" tvg-country="IN" tvg-logo
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=56' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_386/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_386/output/manifest.mpd' + '\n';
 
 
 
@@ -682,7 +682,7 @@ m3uStr += '#EXTINF:-1 tvg-id="7" group-title="Movies" tvg-country="IN" tvg-logo=
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=7' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_276/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_276/output/manifest.mpd' + '\n';
 
 
 
@@ -690,31 +690,31 @@ m3uStr += '#EXTINF:-1 tvg-id="1003" group-title="Others" tvg-country="IN" tvg-lo
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=1003' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1829/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1829/output/manifest.mpd' + '\n';
 
 m3uStr += '#EXTINF:-1 tvg-id="182" group-title="Movies" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-771-j5m3ayw0-v4/imageContent-771-j5m3ayw0-m4.png",Cinema TV India' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=182' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_357/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_357/output/manifest.mpd' + '\n';
 
 m3uStr += '#EXTINF:-1 tvg-id="194" group-title="Movies" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-798-j5m7esnc-v4/imageContent-798-j5m7esnc-m11.png",Dangal 2' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=194' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_358/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_358/output/manifest.mpd' + '\n';
 
 m3uStr += '#EXTINF:-1 tvg-id="276" group-title="Movies" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11200-j9i4gzig-v3/imageContent-11200-j9i4gzig-m4.png",WoW Cinema One' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=276' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_824/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_824/output/manifest.mpd' + '\n';
 
 m3uStr += '#EXTINF:-1 tvg-id="120" group-title="Movies" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-402-j5jq1gko-v3/imageContent-402-j5jq1gko-m4.png",SONY MAX 2' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=120' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_199/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_199/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="2004" group-title=" Movies" tvg-country="IN" tvg-logo="https://www.indiantvinfo.com/media/2022/10/Sony-MAX2-New-Logo.png",Sony Max2 HD' + '\n';
@@ -727,7 +727,7 @@ m3uStr += '#EXTINF:-1 tvg-id="730" group-title=" Movies" tvg-country="IN" tvg-lo
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=730' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod1catchup.akamaized.net/bpk-tv/irdeto_com_Channel_957/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod1catchup.akamaized.net/bpk-tv/irdeto_com_Channel_957/output/manifest.mpd' + '\n';
 
 
 
@@ -735,7 +735,7 @@ m3uStr += '#EXTINF:-1 tvg-id="296" group-title="Movies" tvg-country="IN" tvg-log
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=296' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_472/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_472/output/manifest.mpd' + '\n';
 
 
 
@@ -743,7 +743,7 @@ m3uStr += '#EXTINF:-1 tvg-id="1117" group-title="Others" tvg-country="IN" tvg-lo
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=1117' + '\n';
-m3uStr += 'https://tataplay.dinesh29.com.np/live/tataplay/abzy-movies/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tataplay.dinesh29.com.np/live/tataplay/abzy-movies/manifest.mpd' + '\n';
 
 
 
@@ -751,7 +751,7 @@ m3uStr += '#EXTINF:-1 tvg-id="823" group-title="Movies" tvg-country="IN" tvg-log
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=823' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1118/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1118/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="" group-title=" Movies" tvg-country="IN" tvg-logo="http://logo.opplextv.com/logo/GOLDMINESBOLLYWOOD.png",Goldmines Bollywood' + '\n';
@@ -766,7 +766,7 @@ m3uStr += '#EXTINF:-1 tvg-id="731" group-title="Movies" tvg-country="IN" tvg-log
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=731' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_956/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_956/output/manifest.mpd' + '\n';
 
 
 
@@ -774,7 +774,7 @@ m3uStr += '#EXTINF:-1 tvg-id="965" group-title="Movies" tvg-country="IN" tvg-log
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=965' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1793/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1793/output/manifest.mpd' + '\n';
 
 
 
@@ -782,7 +782,7 @@ m3uStr += '#EXTINF:-1 tvg-id="32" group-title="Movies" tvg-country="IN" tvg-logo
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=32' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_301/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_301/output/manifest.mpd' + '\n';
 
 
 
@@ -790,7 +790,7 @@ m3uStr += '#EXTINF:-1 tvg-id="1037" group-title="Others" tvg-country="IN" tvg-lo
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=1037' + '\n';
-m3uStr += 'https://tataplay.dinesh29.com.np/live/tataplay/dhamaka-movies-b4u/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tataplay.dinesh29.com.np/live/tataplay/dhamaka-movies-b4u/manifest.mpd' + '\n';
 
 
 
@@ -798,7 +798,7 @@ m3uStr += '#EXTINF:-1 tvg-id="558" group-title=" Movies" tvg-country="IN" tvg-lo
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=558' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_200/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_200/output/manifest.mpd' + '\n';
 
 
 
@@ -806,7 +806,7 @@ m3uStr += '#EXTINF:-1 tvg-id="599" group-title=" Movies" tvg-country="IN" tvg-lo
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=599' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_636/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_636/output/manifest.mpd' + '\n';
 
 
 
@@ -814,7 +814,7 @@ m3uStr += '#EXTINF:-1 tvg-id="234" group-title=" Movies" tvg-country="IN" tvg-lo
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=234' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod1catchup.akamaized.net/bpk-tv/irdeto_com_Channel_237/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod1catchup.akamaized.net/bpk-tv/irdeto_com_Channel_237/output/manifest.mpd' + '\n';
 
 
 
@@ -822,7 +822,7 @@ m3uStr += '#EXTINF:-1 tvg-id="562" group-title=" Movies" tvg-country="IN" tvg-lo
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=562' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_563/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_563/output/manifest.mpd' + '\n';
 
 
 
@@ -830,7 +830,7 @@ m3uStr += '#EXTINF:-1 tvg-id="173" group-title=" Movies" tvg-country="IN" tvg-lo
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=173' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod1catchup.akamaized.net/bpk-tv/irdeto_com_Channel_235/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod1catchup.akamaized.net/bpk-tv/irdeto_com_Channel_235/output/manifest.mpd' + '\n';
 
 
 
@@ -838,7 +838,7 @@ m3uStr += '#EXTINF:-1 tvg-id="210" group-title=" Movies" tvg-country="IN" tvg-lo
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=210' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_259/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_259/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="2005" group-title=" Movies" tvg-country="IN" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572eec7fe0772265fedb969/images/626.webp",&Prive HD' + '\n';
@@ -864,7 +864,7 @@ m3uStr += '#EXTINF:-1 tvg-id="223" group-title=" Sports" tvg-country="IN" tvg-lo
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=223' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_146/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_146/output/manifest.mpd' + '\n';
 
 
 
@@ -872,7 +872,7 @@ m3uStr += '#EXTINF:-1 tvg-id="78" group-title=" Sports" tvg-country="IN" tvg-log
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=78' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_250/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_250/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="24" group-title=" Sports" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-60-j5fdr6a0-v1/imageContent-60-j5fdr6a0-m1.png",Star Sports 1 Hindi HD' + '\n';
@@ -885,7 +885,7 @@ m3uStr += '#EXTINF:-1 tvg-id="235" group-title=" Sports" tvg-country="IN" tvg-lo
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=235' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_251/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_251/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="367" group-title=" Sports" tvg-country="IN" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/2a/StarSports3India.jpg/revision/latest/scale-to-width-down/340?cb=20191214234112",Star Sports 3' + '\n';
@@ -898,7 +898,7 @@ m3uStr += '#EXTINF:-1 tvg-id="246" group-title=" Sports" tvg-country="IN" tvg-lo
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=246' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_413/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_413/output/manifest.mpd' + '\n';
 
 
 
@@ -906,7 +906,7 @@ m3uStr += '#EXTINF:-1 tvg-id="463" group-title=" Sports" tvg-country="IN" tvg-lo
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=463' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_729/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_729/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1   tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/59/Sony_Sports_Network.png" group-title=" Sports",Sony TEN 1 HD' + '\n';
@@ -954,7 +954,7 @@ m3uStr += '#EXTINF:-1 tvg-id="174" group-title=" Movies" tvg-country="IN" tvg-lo
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=174' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod1catchup.akamaized.net/bpk-tv/irdeto_com_Channel_236/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod1catchup.akamaized.net/bpk-tv/irdeto_com_Channel_236/output/manifest.mpd' + '\n';
 
 
 
@@ -962,12 +962,12 @@ m3uStr += '#EXTINF:-1 tvg-id="691" group-title="News" tvg-country="IN" tvg-logo=
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=691' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_932/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_932/output/manifest.mpd' + '\n';
 
 
 
 m3uStr += '#EXTINF:-1 tvg-id="980" group-title="Sports" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-70046-l21cybww-v2/imageContent-70046-l21cybww-m5.png",Sports 18 - 1' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1809/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1809/output/manifest.mpd' + '\n';
 
 
 
@@ -975,7 +975,7 @@ m3uStr += '#EXTINF:-1 tvg-id="812" group-title="Sports" tvg-country="IN" tvg-log
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=812' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1109/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1109/output/manifest.mpd' + '\n';
 
 
 
@@ -983,7 +983,7 @@ m3uStr += '#EXTINF:-1 tvg-id="693" group-title="Sports" tvg-country="IN" tvg-log
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=693' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_935/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_935/output/manifest.mpd' + '\n';
 
 m3uStr += '#KODIPROP:inputstreamaddon=inputstream.adaptive' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.manifest_type=dash' + '\n';
@@ -1032,14 +1032,14 @@ m3uStr += '#EXTINF:-1 tvg-id=ts1985 tvg-logo="https://jiotv.catchup.cdn.jio.com/
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=980' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1809/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1809/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id=ts1984 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sports18_1_HD.png" group-title="Sports",Sports18 1 HD' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=1033' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1852/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1852/output/manifest.mpd' + '\n';
 
 m3uStr += '#EXTINF:-1 tvg-id="9997" group-title="Sports" tvg-country="IN" tvg-logo="https://static.toiimg.com/thumb/msid-98738864,imgsize-8010,width-400,resizemode-4/98738864.jpg",Willow Cricket HD ' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
@@ -1064,7 +1064,7 @@ m3uStr += '#EXTINF:-1 tvg-id="177" group-title=" News" tvg-country="IN" tvg-logo
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=177' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_165/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_165/output/manifest.mpd' + '\n';
 
 
 
@@ -1072,7 +1072,7 @@ m3uStr += '#EXTINF:-1 tvg-id="322" group-title=" News" tvg-country="IN" tvg-logo
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=322' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_517/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_517/output/manifest.mpd' + '\n';
 
 
 
@@ -1080,7 +1080,7 @@ m3uStr += '#EXTINF:-1 tvg-id="783" group-title=" Knowledge" tvg-country="IN" tvg
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=783' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_974/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_974/output/manifest.mpd' + '\n';
 
 
 
@@ -1088,7 +1088,7 @@ m3uStr += '#EXTINF:-1 tvg-id="179" group-title=" News" tvg-country="IN" tvg-logo
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=179' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_104/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_104/output/manifest.mpd' + '\n';
 
 
 
@@ -1096,7 +1096,7 @@ m3uStr += '#EXTINF:-1 tvg-id="689" group-title=" News" tvg-country="IN" tvg-logo
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=689' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_930/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_930/output/manifest.mpd' + '\n';
 
 
 
@@ -1105,7 +1105,7 @@ m3uStr += '#EXTINF:-1 tvg-id="188" group-title=" News" tvg-country="IN" tvg-logo
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=188' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_151/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_151/output/manifest.mpd' + '\n';
 
 
 
@@ -1114,7 +1114,7 @@ m3uStr += '#EXTINF:-1 tvg-id="153" group-title=" News" tvg-country="IN" tvg-logo
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=153' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_191/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_191/output/manifest.mpd' + '\n';
 
 
 
@@ -1122,7 +1122,7 @@ m3uStr += '#EXTINF:-1 tvg-id=ts259 tvg-logo="https://mediaready.videoready.tv/ta
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=259' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_420/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_420/output/manifest.mpd' + '\n';
 
 
 
@@ -1130,7 +1130,7 @@ m3uStr += '#EXTINF:-1 tvg-id="872" group-title="Spiritual" tvg-country="IN" tvg-
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=872' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1148/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1148/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="1350" group-title="Spiritual" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-58613-kj283ly8-v2/imageContent-58613-kj283ly8-m2.png",Tata Play Lakshya TV' + '\n';
@@ -1152,35 +1152,35 @@ m3uStr += '#EXTINF:-1 tvg-id="209" group-title=" News" tvg-country="IN" tvg-logo
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=209' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_308/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_308/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="928" group-title=" Knowledge" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-64066-kra2j2qo-v2/imageContent-64066-kra2j2qo-m2.png",Tata Play NEET Prep' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=928' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1323/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1323/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="514" group-title=" News" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11978-j9lum7d4-v1/imageContent-11978-j9lum7d4-m1.png",Zee Hindustan' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=514' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_840/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_840/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="106" group-title=" News" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-339-j5jm6kko-v1/imageContent-339-j5jm6kko-m1.png",News18 India' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=106' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_149/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_149/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="929" group-title=" Knowledge" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-64069-kra2o75k-v2/imageContent-64069-kra2o75k-m2.png",Tata Play JEE Prep' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=929' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1324/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1324/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="696" group-title=" News" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-35599-jrm11j9c-v1/imageContent-35599-jrm11j9c-m1.PNG",R Bharat' + '\n';
@@ -1202,21 +1202,21 @@ m3uStr += '#EXTINF:-1 tvg-id="1056" group-title=" Others" tvg-country="IN" tvg-l
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=1056' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod1catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1874/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod1catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1874/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="706" group-title=" News" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-67672-kwly0m4w-v1/imageContent-67672-kwly0m4w-m1.png",TV9 Bharatvarsh' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=706' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_945/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_945/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="966" group-title=" News" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-67796-kx7lokw8-v2/imageContent-67796-kx7lokw8-m4.png",Times Now Navbharat' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=966' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1791/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1791/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="36" group-title=" News" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-114-j5fl632o-v1/imageContent-114-j5fl632o-m1.png",News Nation' + '\n';
@@ -1230,7 +1230,7 @@ m3uStr += '#EXTINF:-1 tvg-id="932" group-title=" News" tvg-country="IN" tvg-logo
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=932' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1327/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1327/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="485" group-title=" News" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11859-j9l2n36w-v2/imageContent-11859-j9l2n36w-m2.png",TOTAL TV' + '\n';
@@ -1251,56 +1251,56 @@ m3uStr += '#EXTINF:-1 tvg-id="1010" group-title=" Others" tvg-country="IN" tvg-l
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=1010' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1836/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1836/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="1031" group-title=" Others" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-72980-l8fn3f28-v2/imageContent-72980-l8fn3f28-m4.png",Surya Samachar' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=1031' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1842/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1842/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="475" group-title=" News" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11831-j9kzkn40-v1/imageContent-11831-j9kzkn40-m1.png",Sudarshan News' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=475' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_754/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_754/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="1084" group-title=" Others" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/INDLive_Thumbnail-v1/INDLive_Thumbnail.png",India Daily Live' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=1084' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1897/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1897/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="286" group-title=" News" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-17573-jclve4rc-v1/imageContent-17573-jclve4rc-m1.png",APN News' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=286' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_459/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_459/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="1051" group-title=" Others" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/BHEXP_Thumbnail-v2/BHEXP_Thumbnail.png",Bharat Express' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=1051' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1867/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1867/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="1161" group-title=" Others" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/DSNEW_Thumbnail-v5/DSNEW_Thumbnail.png",Desh News' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=1161' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1944/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1944/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="950" group-title=" News" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-66223-ku9gfjug-v1/imageContent-66223-ku9gfjug-m1.png",ET Now Swadesh' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=950' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1781/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1781/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="441" group-title=" News" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11719-j9ktg6ds-v2/imageContent-11719-j9ktg6ds-m2.png",Samay' + '\n';
@@ -1321,7 +1321,7 @@ m3uStr += '#EXTINF:-1 tvg-id="848" group-title=" News" tvg-country="IN" tvg-logo
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=848' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1136/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1136/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="291" group-title=" News" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11243-j9itj54w-v2/imageContent-11243-j9itj54w-m2.png",Bharat Samachar' + '\n';
@@ -1335,126 +1335,126 @@ m3uStr += '#EXTINF:-1 tvg-id="988" group-title=" Others" tvg-country="IN" tvg-lo
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=988' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1814/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1814/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="685" group-title=" News" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-34516-jp9bj0qg-v4/imageContent-34516-jp9bj0qg-m4.png",India Voice' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=685' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod1catchup.akamaized.net/bpk-tv/irdeto_com_Channel_922/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod1catchup.akamaized.net/bpk-tv/irdeto_com_Channel_922/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="869" group-title=" News" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-58484-kixj8h6o-v3/imageContent-58484-kixj8h6o-m2.png",Prime News' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=869' + '\n';
-m3uStr += 'https://tataplay.dinesh29.com.np/live/tataplay/prime-news/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tataplay.dinesh29.com.np/live/tataplay/prime-news/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="260" group-title=" News" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11120-j95jyuao-v1/imageContent-11120-j95jyuao-m1.png",Zee Business' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=260' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_421/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_421/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="414" group-title=" News" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11634-j9k0pbr4-v1/imageContent-11634-j9k0pbr4-m1.png",News 1 India' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=414' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod1catchup.akamaized.net/bpk-tv/irdeto_com_Channel_658/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod1catchup.akamaized.net/bpk-tv/irdeto_com_Channel_658/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="344" group-title=" News" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11467-j9jr3k80-v2/imageContent-11467-j9jr3k80-m2.png",Hindi Khabar' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=344' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod1catchup.akamaized.net/bpk-tv/irdeto_com_Channel_564/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod1catchup.akamaized.net/bpk-tv/irdeto_com_Channel_564/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="204" group-title=" News" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-846-j5m9p55k-v1/imageContent-846-j5m9p55k-m1.png",CNBC Awaaz' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=204' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_147/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_147/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="701" group-title=" Hindi" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-37210-jswmlty0-v2/imageContent-37210-jswmlty0-m2.PNG",Jantantra TV' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=701' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod1catchup.akamaized.net/bpk-tv/irdeto_com_Channel_941/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod1catchup.akamaized.net/bpk-tv/irdeto_com_Channel_941/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="278" group-title=" News" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11206-j9icarsw-v2/imageContent-11206-j9icarsw-m2.png",Good News Today' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=278' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_434/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_434/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="212" group-title=" News" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-858-j5ma94ag-v2/imageContent-858-j5ma94ag-m2.png",Sansad TV - Rajya Sabha' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=212' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_311/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_311/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="213" group-title=" News" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-825-j5m9c6c0-v2/imageContent-825-j5m9c6c0-m2.png",Sansad TV' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=213' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_281/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_281/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="208" group-title=" News" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-834-j5m9nrrs-v1/imageContent-834-j5m9nrrs-m1.png",NDTV 24x7' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=208' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_107/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_107/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="547" group-title=" News" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11853-j9l1tvhs-v4/imageContent-11853-j9l1tvhs-m5.png",Times Now World' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=547' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_779/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_779/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="90" group-title=" News" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-303-j5ji8zco-v3/imageContent-303-j5ji8zco-m3.png",TIMES NOW' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=90' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_162/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_162/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="1" group-title=" News" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-3-j5dkuhwo-v1/imageContent-3-j5dkuhwo-m2.png",INDIA TODAY' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=1' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_221/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_221/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="784" group-title=" Others" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/FNEWS_Thumbnail-v2/FNEWS_Thumbnail.png",FM News' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=784' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod1catchup.akamaized.net/bpk-tv/irdeto_com_Channel_976/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod1catchup.akamaized.net/bpk-tv/irdeto_com_Channel_976/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="591" group-title=" News" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12189-j9plqlf4-v1/imageContent-12189-j9plqlf4-m1.png",MIRROR NOW' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=591' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_615/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_615/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="206" group-title=" News" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-843-j5m9oyzc-v1/imageContent-843-j5m9oyzc-m1.png",CNN News18' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=206' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_108/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_108/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="189" group-title=" English News" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8012-j7a2doxc-v1/imageContent-8012-j7a2doxc-m1.png",NewsX' + '\n';
@@ -1468,7 +1468,7 @@ m3uStr += '#EXTINF:-1 tvg-id="255" group-title=" News" tvg-country="IN" tvg-logo
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=255' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_422/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_422/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="72" group-title=" News" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-231-j5fxh0ag-v1/imageContent-231-j5fxh0ag-m1.png",REPUBLIC TV' + '\n';
@@ -1482,49 +1482,49 @@ m3uStr += '#EXTINF:-1 tvg-id="304" group-title=" News" tvg-country="IN" tvg-logo
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=304' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_488/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_488/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="93" group-title=" News" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-294-j5ji8n08-v1/imageContent-294-j5ji8n08-m1.png",NDTV Profit Prime' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=93' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_110/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_110/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="324" group-title=" News" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/DDIND_Thumbnail.png-v4/DDIND_Thumbnail.png.png",DD India' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=324' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_508/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_508/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="88" group-title=" News" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-6904-j6vreaps-v1/imageContent-6904-j6vreaps-m1.png",ET NOW' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=88' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_163/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_163/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="243" group-title=" News" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-4154-j69pdmvk-v1/imageContent-4154-j69pdmvk-m1.png",CNN' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=243' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_410/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_410/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="168" group-title=" News" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-731-j5l3muhs-v1/imageContent-731-j5l3muhs-m1.png",CNBC-TV18' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=168' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_109/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_109/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="190" group-title=" News" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-789-j5m5m0uw-v1/imageContent-789-j5m5m0uw-m1.png",Al Jazeera' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=190' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_187/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_187/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="131" group-title=" News" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-435-j5jsyz6o-v1/imageContent-435-j5jsyz6o-m1.png",France 24' + '\n';
@@ -1538,7 +1538,7 @@ m3uStr += '#EXTINF:-1 tvg-id="157" group-title=" News" tvg-country="IN" tvg-logo
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=157' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_220/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_220/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="65" group-title=" News" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-204-j5ftndtc-v1/imageContent-204-j5ftndtc-m1.png",TV5 Monde Asie' + '\n';
@@ -1552,14 +1552,14 @@ m3uStr += '#EXTINF:-1 tvg-id="105" group-title=" News" tvg-country="IN" tvg-logo
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=105' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_239/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_239/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="60" group-title=" News" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-186-j5fsr1go-v1/imageContent-186-j5fsr1go-m1.png",DW' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=60' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_376/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_376/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="98" group-title=" News" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-312-j5jjsfhs-v1/imageContent-312-j5jjsfhs-m1.png",Russia Today' + '\n';
@@ -1574,7 +1574,7 @@ m3uStr += '#EXTINF:-1 tvg-id="587" group-title=" Kids" tvg-country="IN" tvg-logo
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=587' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_781/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_781/output/manifest.mpd' + '\n';
 
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=' + '\n';
@@ -1595,7 +1595,7 @@ m3uStr += '#EXTINF:-1 tvg-id="114" group-title=" Kids" tvg-country="IN" tvg-logo
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=114' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_166/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_166/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="disneychannel.in" group-title=" Kids" tvg-country="IN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Disney_Channel_2014_HD.png",Disney Channel HD' + '\n';
@@ -1607,7 +1607,7 @@ m3uStr += '#EXTINF:-1 tvg-id="433" group-title=" Kids" tvg-country="IN" tvg-logo
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=433' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_663/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_663/output/manifest.mpd' + '\n';
 
 
 
@@ -1615,7 +1615,7 @@ m3uStr += '#EXTINF:-1 tvg-id="138" group-title=" Kids" tvg-country="IN" tvg-logo
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=138' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_117/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_117/output/manifest.mpd' + '\n';
 
 
 
@@ -1623,28 +1623,28 @@ m3uStr += '#EXTINF:-1 tvg-id="627" group-title=" Kids" tvg-country="IN" tvg-logo
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=627' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_861/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_861/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="71" group-title=" Knowledge" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-25721-jia4i70o-v2/imageContent-25721-jia4i70o-m3.PNG",Tata Play English in Hindi' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=71' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_396/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_396/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="626" group-title=" Kids" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-13094-jbdzlsfs-v2/imageContent-13094-jbdzlsfs-m2.png",Tata Play Fun Learn Preschool' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=626' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_860/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_860/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="238" group-title=" Kids" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11161-j99h67u8-v1/imageContent-11161-j99h67u8-m1.png",Cartoon Network' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=238' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_405/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_405/output/manifest.mpd' + '\n';
 
 
 
@@ -1652,7 +1652,7 @@ m3uStr += '#EXTINF:-1 tvg-id="681" group-title="Kids" tvg-logo="https://mediarea
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=681' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_925/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_925/output/manifest.mpd' + '\n';
 
 
 
@@ -1660,42 +1660,42 @@ m3uStr += '#EXTINF:-1 tvg-id="119" group-title=" Kids" tvg-country="IN" tvg-logo
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=119' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_130/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_130/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="239" group-title=" Kids" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-2694-j638bugw-v1/imageContent-2694-j638bugw-m1.png",Pogo' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=239' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_406/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_406/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="127" group-title=" Kids" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8018-j7a7n1a8-v1/imageContent-8018-j7a7n1a8-m1.png",Sonic Nickelodeon' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=127' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_169/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_169/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="867" group-title=" Kannada" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-57985-khvdchrs-v2/imageContent-57985-khvdchrs-m2.png",Gubbare' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=867' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1143/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1143/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="905" group-title=" Kids" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-62236-kny7yzaw-v1/imageContent-62236-kny7yzaw-m1.png",ETV Bal Bharat' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=905' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1311/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1311/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="994" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-71550-l4zi50uw-v2/imageContent-71550-l4zi50uw-m5.png" group-title="",Tata Play Toons+' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=994' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1821/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1821/output/manifest.mpd' + '\n';
 
 
 
@@ -1703,7 +1703,7 @@ m3uStr += '#EXTINF:-1 tvg-id="45" group-title=" Kids" tvg-country="IN" tvg-logo=
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=45' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_365/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_365/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="45" group-title="Kids" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-132-j5fpedbs-v4/imageContent-132-j5fpedbs-m6.png",SONY YAY! HD' + '\n';
@@ -1716,14 +1716,14 @@ m3uStr += '#EXTINF:-1 tvg-id="118" group-title=" Kids" tvg-country="IN" tvg-logo
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=118' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_168/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_168/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id=ts118 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Junior.png" group-title="Kids",Nick Junior' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=1189' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_168/output/manifest.mpd?begin=20240513T010000&end=' + '\n';;
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_168/output/manifest.mpd' + '\n';;
 
 
 
@@ -1731,35 +1731,35 @@ m3uStr += '#EXTINF:-1 tvg-id="144" group-title=" Kids" tvg-country="IN" tvg-logo
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=144' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_167/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_167/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="111" group-title=" Knowledge" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-352-j5jmrkqw-v2/imageContent-352-j5jmrkqw-m2.png",Tata Play Smart Manager' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=111' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_391/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_391/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="137" group-title=" Knowledge" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-462-j5jw44hk-v2/imageContent-462-j5jw44hk-m3.png",National Geographic' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=137' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_113/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_113/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="167" group-title=" Knowledge" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-703-j5l1wgco-v2/imageContent-703-j5l1wgco-m2.png",Tata Play Vedic Maths' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=167' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_392/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_392/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="816" group-title=" Kids" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-52868-k9af4lxs-v1/imageContent-52868-k9af4lxs-m1.png",CBeeBies' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=816' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1112/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1112/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="" group-title=" Kids" tvg-logo="https://i.postimg.cc/RFYmJhWz/image_82.jpg",Wow Kidz' + '\n';
@@ -1781,7 +1781,7 @@ m3uStr += '#EXTINF:-1 tvg-id="605" group-title=" Knowledge" tvg-country="IN" tvg
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=605' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_652/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_652/output/manifest.mpd' + '\n';
 
 
 
@@ -1789,7 +1789,7 @@ m3uStr += '#EXTINF:-1 tvg-id="184" group-title=" Knowledge" tvg-country="IN" tvg
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=184' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_119/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_119/output/manifest.mpd' + '\n';
 
 
 
@@ -1797,28 +1797,28 @@ m3uStr += '#EXTINF:-1 tvg-id="130" group-title=" Knowledge" tvg-country="IN" tvg
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=130' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_129/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_129/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="287" group-title=" Knowledge" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-44915-jzuyh3w0-v1/imageContent-44915-jzuyh3w0-m1.png",Animal Planet HD World' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=287' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_457/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_457/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="219" group-title=" Knowledge" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-876-j5mcolzc-v2/imageContent-876-j5mcolzc-m2.png",Discovery Channel' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=219' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_128/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_128/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="341" group-title=" Knowledge" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11396-j9jq7jg0-v1/imageContent-11396-j9jq7jg0-m1.png",Discovery HD World' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=341' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_530/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_530/output/manifest.mpd' + '\n';
 
 
 
@@ -1826,7 +1826,7 @@ m3uStr += '#EXTINF:-1 tvg-id="413" group-title=" Knowledge" tvg-country="IN" tvg
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=413' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod1catchup.akamaized.net/bpk-tv/irdeto_com_Channel_655/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod1catchup.akamaized.net/bpk-tv/irdeto_com_Channel_655/output/manifest.mpd' + '\n';
 
 
 
@@ -1834,14 +1834,14 @@ m3uStr += '#EXTINF:-1 tvg-id="113" group-title=" Knowledge" tvg-country="IN" tvg
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=113' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_153/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_153/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="616" group-title=" Knowledge" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12267-j9qx2si0-v3/imageContent-12267-j9qx2si0-m3.png",History TV18 HD' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=616' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_565/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_565/output/manifest.mpd' + '\n';
 
 
 
@@ -1849,7 +1849,7 @@ m3uStr += '#EXTINF:-1 tvg-id="460" group-title=" Knowledge" tvg-country="IN" tvg
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=460' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_722/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_722/output/manifest.mpd' + '\n';
 
 
 
@@ -1857,14 +1857,14 @@ m3uStr += '#EXTINF:-1 tvg-id="367" group-title=" Lifestyle" tvg-country="IN" tvg
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=367' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_544/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_544/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="646" group-title=" Knowledge" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-23855-jg9jt83c-v2/imageContent-23855-jg9jt83c-m8.png",DD Gyan Darshan' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=646' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_881/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_881/output/manifest.mpd' + '\n';
 
 
 
@@ -1872,7 +1872,7 @@ m3uStr += '#EXTINF:-1 tvg-id="158" group-title=" Knowledge" tvg-country="IN" tvg
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=158' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_400/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_400/output/manifest.mpd' + '\n';
 
 
 
@@ -1880,14 +1880,14 @@ m3uStr += '#EXTINF:-1 tvg-id="135" group-title=" Lifestyle" tvg-country="IN" tvg
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=135' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_127/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_127/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="126" group-title=" Knowledge" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/EPI_Thumbnail-v2/EPI_Thumbnail.png",EPIC' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=126' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_194/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_194/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="923" group-title=" Lifestyle" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-63764-kr1kzw28-v2/imageContent-63764-kr1kzw28-m2.png",TravelXP 4K HDR' + '\n';
@@ -1909,35 +1909,35 @@ m3uStr += '#EXTINF:-1 tvg-id="480" group-title=" Lifestyle" tvg-country="IN" tvg
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=480' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_780/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_780/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="484" group-title=" Lifestyle" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11862-j9l2p61c-v1/imageContent-11862-j9l2p61c-m1.png",Travelxp HD' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=484' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_788/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_788/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="136" group-title=" Lifestyle" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-42020-jxb7qjw8-v1/imageContent-42020-jxb7qjw8-m1.png",GOOD TiMES' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=136' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_111/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_111/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="228" group-title=" Lifestyle" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-967-j5mr8tw8-v1/imageContent-967-j5mr8tw8-m1.png",Discovery Turbo' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=228' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_145/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_145/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="117" group-title=" Lifestyle" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-384-j5jpj9hc-v1/imageContent-384-j5jpj9hc-m1.png",Food Food' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=117' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_154/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_154/output/manifest.mpd' + '\n';
 
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/jp.php?contentID=&key' + '\n';
@@ -1950,7 +1950,7 @@ m3uStr += '#EXTINF:-1 tvg-id="172" group-title=" Knowledge" tvg-country="IN" tvg
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=172' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod1catchup.akamaized.net/bpk-tv/irdeto_com_Channel_120/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod1catchup.akamaized.net/bpk-tv/irdeto_com_Channel_120/output/manifest.mpd' + '\n';
 
 
 
@@ -1958,42 +1958,42 @@ m3uStr += '#EXTINF:-1 tvg-id="55" group-title=" Lifestyle" tvg-country="IN" tvg-
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=55' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_366/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_366/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="227" group-title=" Lifestyle" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-959-j5mipsnk-v1/imageContent-959-j5mipsnk-m1.png",Fashion TV' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=227' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_404/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_404/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="139" group-title=" Music" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-468-j5jwdbi8-v1/imageContent-468-j5jwdbi8-m1.png",9XM' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=139' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_201/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_201/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="735" group-title=" Spiritual" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-44321-jz2zb8pk-v3/imageContent-44321-jz2zb8pk-m3.png",Tata Play Ibaadat' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=735' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1632/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1632/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="96" group-title=" Music" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-24696-jgrq09a8-v1/imageContent-24696-jgrq09a8-m1.png",Zoom' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=96' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_164/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_164/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="406" group-title=" Music" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11610-j9jzore8-v2/imageContent-11610-j9jzore8-m2.png",MTV HD' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=406' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_638/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_638/output/manifest.mpd' + '\n';
 
 
 
@@ -2001,7 +2001,7 @@ m3uStr += '#EXTINF:-1 tvg-id="405" group-title=" Music" tvg-country="IN" tvg-log
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=405' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_637/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_637/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 group-title=" Music" tvg-logo="https://qqcdnpictest.mxplay.com/pic/4997.DistroTv.in/hi/16x9/320x180/1707501705875thumbh_20240206_190035.webp",Shemaroo Filmy Gane' + '\n';
@@ -2027,63 +2027,63 @@ m3uStr += '#EXTINF:-1 tvg-id="224" group-title=" Music" tvg-country="IN" tvg-log
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=224' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_278/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_278/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="517" group-title=" Music" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11993-j9luua9c-v1/imageContent-11993-j9luua9c-m1.png",Zing' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=517' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_843/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_843/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="17" group-title=" Music" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-57-j5fdr2f4-v1/imageContent-57-j5fdr2f4-m1.png",Mastiii' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=17' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_279/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_279/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="9" group-title=" Music" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-24-j5fb33y0-v1/imageContent-24-j5fb33y0-m1.png",B4U Music' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=9' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_277/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_277/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="39" group-title=" Music" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-102-j5fl5pyg-v1/imageContent-102-j5fl5pyg-m1.png",9X Jalwa' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=39' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_355/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_355/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="733" group-title=" Music" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/Showbox_Thumbnail-v2/Showbox_Thumbnail.png",Showbox' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=733' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_961/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_961/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="1259" group-title=" Others" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/AYLI_Thumbnail-v1/AYLI_Thumbnail.png",Ayodhya Darshan' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=1259' + '\n';
-m3uStr += 'https://tataplay.dinesh29.com.np/live/tataplay/ayodhya-darshan/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tataplay.dinesh29.com.np/live/tataplay/ayodhya-darshan/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="103" group-title=" Music" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-330-j5jl5on4-v2/imageContent-330-j5jl5on4-m2.png",MTV' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=103' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod1catchup.akamaized.net/bpk-tv/irdeto_com_Channel_105/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod1catchup.akamaized.net/bpk-tv/irdeto_com_Channel_105/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="539" group-title=" Music" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12030-j9nyctjk-v3/imageContent-12030-j9nyctjk-m5.png",VH1 HD' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=539' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_817/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_817/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="43" group-title=" Spiritual" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-123-j5fnf1fc-v1/imageContent-123-j5fnf1fc-m1.png",Sanskar' + '\n';
@@ -2097,7 +2097,7 @@ m3uStr += '#EXTINF:-1 tvg-id="236" group-title=" Music" tvg-country="IN" tvg-log
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=236' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod1catchup.akamaized.net/bpk-tv/irdeto_com_Channel_402/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod1catchup.akamaized.net/bpk-tv/irdeto_com_Channel_402/output/manifest.mpd' + '\n';
 
 m3uStr += '#EXTINF:-1 tvg-id="DB-1" tvg-logo="https://2.bp.blogspot.com/-jOPOMBYP0Hk/XKgrK1Px5yI/AAAAAAAAAH8/V7HVJZOBGiY0vREOs9WePJfOvWDDFa_wACLcBGAs/w680/images%2B%25289%2529.jpeg" group-title="Music",Hindi Hits HD' + '\n';
 m3uStr += 'https://dv8r.short.gy/Hindi_hits_HD.m3u8' + '\n';
@@ -2136,14 +2136,14 @@ m3uStr += '#EXTINF:-1 tvg-id="446" group-title=" Spiritual" tvg-country="IN" tvg
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=446' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_669/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_669/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="38" group-title=" Spiritual" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-105-j5fl5t1k-v1/imageContent-105-j5fl5t1k-m1.png",Aastha' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=38' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_341/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_341/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="397" group-title=" Spiritual" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11590-j9jyx4so-v1/imageContent-11590-j9jyx4so-m1.png",MH One Shraddha' + '\n';
@@ -2157,21 +2157,21 @@ m3uStr += '#EXTINF:-1 tvg-id="288" group-title=" Spiritual" tvg-country="IN" tvg
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=288' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_461/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_461/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="420" group-title=" Spiritual" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11664-j9kcouh4-v1/imageContent-11664-j9kcouh4-m1.png",Peace of Mind' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=420' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_670/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_670/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="373" group-title=" Spiritual" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11507-j9jto5k0-v1/imageContent-11507-j9jto5k0-m1.png",Jinvani Channel' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=373' + '\n';
-m3uStr += 'https://tataplay.dinesh29.com.np/live/tataplay/jinvani-channel/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tataplay.dinesh29.com.np/live/tataplay/jinvani-channel/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="456" group-title=" Spiritual" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11767-j9kwretk-v1/imageContent-11767-j9kwretk-m1.png",Satsang TV' + '\n';
@@ -2185,70 +2185,70 @@ m3uStr += '#EXTINF:-1 tvg-id="447" group-title=" Spiritual" tvg-country="IN" tvg
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=447' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_696/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_696/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="594" group-title=" Spiritual" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12196-j9q3ez54-v1/imageContent-12196-j9q3ez54-m1.png",Ishwar TV' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=594' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_579/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_579/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="458" group-title=" Spiritual" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11775-j9kwuk8w-v1/imageContent-11775-j9kwuk8w-m1.png",Shubh TV' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=458' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_715/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_715/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="500" group-title=" Spiritual" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11903-j9l4wxy8-v1/imageContent-11903-j9l4wxy8-m1.png",Vedic' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=500' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_814/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_814/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="283" group-title=" Spiritual" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11212-j9icd8jc-v1/imageContent-11212-j9icd8jc-m1.png",Aastha Bhajan' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=283' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_436/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_436/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="728" group-title=" Hindi" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-43103-jxzlrb0o-v2/imageContent-43103-jxzlrb0o-m2.png",Subharti TV' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=728' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_958/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_958/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="775" group-title=" Spiritual" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11408-j9jqmlvs-v6/imageContent-11408-j9jqmlvs-m4.png",DIVYA' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=775' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_969/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_969/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="969" group-title=" Spiritual" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-69024-kzo68h3c-v1/imageContent-69024-kzo68h3c-m1.png",Aadinath TV' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=969' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1799/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1799/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="385" group-title=" Spiritual" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11547-j9ju62m8-v3/imageContent-11547-j9ju62m8-m3.png",Sharnam TV' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=385' + '\n';
-m3uStr += 'https://tataplay.dinesh29.com.np/live/tataplay/sharnam-tv/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tataplay.dinesh29.com.np/live/tataplay/sharnam-tv/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="837" group-title=" Spiritual" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/HareKrsna_Thumbnail-v1/HareKrsna_Thumbnail.png",Hare Krsna' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=837' + '\n';
-m3uStr += 'https://hktv.harekrsnatv.com/HKTV/HKWebApp/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://hktv.harekrsnatv.com/HKTV/HKWebApp/manifest.mpd' + '\n';
 
 
 
@@ -2256,28 +2256,28 @@ m3uStr += '#EXTINF:-1 tvg-id="935" group-title=" Spiritual" tvg-country="IN" tvg
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=935' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod1catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1184/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod1catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1184/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="12" group-title=" Hindi" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-42-j5fc9b8g-v3/imageContent-42-j5fc9b8g-m3.png",Zee Ganga' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=12' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_380/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_380/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="1119" group-title=" Others" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/SA24x7_Thumbnail-v2/SA24x7_Thumbnail.png",Sanskriti 24x7' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=1119' + '\n';
-m3uStr += 'https://tataplay.dinesh29.com.np/live/tataplay/sanskriti-24x7/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tataplay.dinesh29.com.np/live/tataplay/sanskriti-24x7/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="814" group-title=" Hindi" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-52853-k982u9ts-v1/imageContent-52853-k982u9ts-m1.png",Zee Biskope' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=814' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1111/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1111/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="802" group-title=" Entertainment" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/STU1PLS_Thumbnail-v2/STU1PLS_Thumbnail.png",Studio One +' + '\n';
@@ -2291,28 +2291,28 @@ m3uStr += '#EXTINF:-1 tvg-id="830" group-title=" Hindi" tvg-country="IN" tvg-log
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=830' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1126/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1126/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="970" group-title=" Hindi" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-69027-kzo69re0-v1/imageContent-69027-kzo69re0-m2.png",MH One Dil Se' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=970' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1800/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1800/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="911" group-title=" Spiritual" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-62610-koxujv2g-v2/imageContent-62610-koxujv2g-m3.png",Santwani' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=911' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod1catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1316/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod1catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1316/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="181" group-title=" Hindi" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-768-j5m31cfs-v1/imageContent-768-j5m31cfs-m1.png",Bhojpuri Cinema' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=181' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_379/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_379/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="431" group-title=" Hindi" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/OSMOV_Thumbnail-v3/OSMOV_Thumbnail.png",Oscar Movies Bhojpuri.' + '\n';
@@ -2326,70 +2326,70 @@ m3uStr += '#EXTINF:-1 tvg-id="729" group-title=" Hindi" tvg-country="IN" tvg-log
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=729' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod1catchup.akamaized.net/bpk-tv/irdeto_com_Channel_959/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod1catchup.akamaized.net/bpk-tv/irdeto_com_Channel_959/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="79" group-title=" Hindi" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-23223-jeyhnzfs-v1/imageContent-23223-jeyhnzfs-m1.png",News18 Uttar Pradesh Uttarakhand' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=79' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_352/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_352/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="1165" group-title=" Others" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/RPCHK_Thumbnail-v2/RPCHK_Thumbnail.png",Raapchik' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=1165' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1947/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1947/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="166" group-title=" Hindi" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-23206-jey39grs-v1/imageContent-23206-jey39grs-m2.png",News18 Bihar Jharkhand' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=166' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_247/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_247/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="637" group-title=" News" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-21315-je85i72w-v1/imageContent-21315-je85i72w-m5.png",Zee Uttar Pradesh Uttarakhand' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=637' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_874/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_874/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="20" group-title=" Hindi" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11140-j96syfuo-v1/imageContent-11140-j96syfuo-m1.png",Zee Bihar Jharkhand' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=20' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_389/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_389/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="613" group-title=" News" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12252-j9qrkgu8-v3/imageContent-12252-j9qrkgu8-m2.png",News State UP Uttarakhand' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=613' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_661/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_661/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="838" group-title=" Hindi" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-56320-kf6aheeo-v2/imageContent-56320-kf6aheeo-m3.png",Kashish News' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=838' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod1catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1130/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod1catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1130/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="973" group-title=" Hindi" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-69315-l02nqy9k-v1/imageContent-69315-l02nqy9k-m6.png",Sahara Samay UP-UKD' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=973' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1802/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1802/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="899" group-title=" Movies" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-62150-knicubns-v2/imageContent-62150-knicubns-m2.png",Pasand' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=899' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod1catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1309/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod1catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1309/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="7894" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/88yhzevajusuo8inbx5en/Bollywood_Premier_HD.png?rlkey=zfi546es133n6x38lwkbw4y4x&st=yu62z68p&dl=0" group-title="Movies",Bollywood Premier HD' + '\n';
@@ -2412,315 +2412,315 @@ m3uStr += '#EXTINF:-1 tvg-id="30" group-title=" News" tvg-country="IN" tvg-logo=
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=30' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_361/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_361/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="339" group-title=" Hindi" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11389-j9jq2ybk-v1/imageContent-11389-j9jq2ybk-m1.png",DD Uttar Pradesh' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=339' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_525/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_525/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="316" group-title=" Entertainment" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/DDBH_Thumbnail-v2/DDBH_Thumbnail.png",DD Bharati' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=316' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_504/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_504/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="203" group-title=" Hindi" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-23266-jez523so-v1/imageContent-23266-jez523so-m2.png",News18 Madhya Pradesh Chhattisgarh' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=203' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_213/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_213/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="27" group-title=" Hindi" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-78-j5fikkk8-v1/imageContent-78-j5fikkk8-m1.png",IBC 24' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=27' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_331/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_331/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="317" group-title=" Hindi" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11321-j9jlxaz4-v1/imageContent-11321-j9jlxaz4-m1.png",DD Bihar' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=317' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_505/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_505/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="512" group-title=" Hindi" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11981-j9lunvjs-v1/imageContent-11981-j9lunvjs-m1.png",Zee Madhya Pradesh Chattisgarh' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=512' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_837/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_837/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="827" group-title=" Hindi" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-55124-kd89b0f4-v1/imageContent-55124-kd89b0f4-m4.png",Sadhna Plus News' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=827' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod1catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1124/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod1catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1124/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="698" group-title=" Hindi" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-35622-jrr5mvig-v1/imageContent-35622-jrr5mvig-m1.png",INH 24X7' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=698' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_939/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_939/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="222" group-title=" News" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8971-j7rffd40-v1/imageContent-8971-j7rffd40-m1.png",India News MP CG' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=222' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_359/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_359/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="577" group-title=" News" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12143-j9p7vx9c-v1/imageContent-12143-j9p7vx9c-m1.png",Swaraj Express SMBC' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=577' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_719/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_719/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="902" group-title=" News" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-62181-knrp5974-v1/imageContent-62181-knrp5974-m1.png",News 24 Madhyapradesh Chattisgarh' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=902' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1310/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1310/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="643" group-title=" News" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-31191-jldnwhhs-v1/imageContent-31191-jldnwhhs-m1.png",News State MP CG' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=643' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_878/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_878/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="652" group-title=" Hindi" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-25494-ji1a6ym0-v2/imageContent-25494-ji1a6ym0-m2.png",Bansal News' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=652' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod1catchup.akamaized.net/bpk-tv/irdeto_com_Channel_885/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod1catchup.akamaized.net/bpk-tv/irdeto_com_Channel_885/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="1009" group-title=" Others" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-72340-l6nkcw74-v1/imageContent-72340-l6nkcw74-m1.png",TV27 News' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=1009' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1837/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1837/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="993" group-title=" Others" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-71503-l4su2elk-v2/imageContent-71503-l4su2elk-m7.png",News Hour' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=993' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1820/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1820/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="1159" group-title=" Others" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/NDTVMP_Thumbnail-v2/NDTVMP_Thumbnail.png",NDTV MPCG' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=1159' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1943/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1943/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="1074" group-title=" Others" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/TV24N_Thumbnail-v2/TV24N_Thumbnail.png",TV 24' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=1074' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1889/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1889/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="829" group-title=" Hindi" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-55112-kd88u9so-v1/imageContent-55112-kd88u9so-m2.png",Sadhna News MP CG' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=829' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod1catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1122/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod1catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1122/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="330" group-title=" Hindi" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11351-j9jpmdvc-v1/imageContent-11351-j9jpmdvc-m1.png",DD Madhya Pradesh' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=330' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_511/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_511/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="583" group-title=" Hindi" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12158-j9pd883k-v1/imageContent-12158-j9pd883k-m1.png",Zee Rajasthan News' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=583' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_831/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_831/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="205" group-title=" Hindi" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-23226-jeyiac80-v1/imageContent-23226-jeyiac80-m1.png",News18 Rajasthan' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=205' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_141/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_141/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="650" group-title=" Hindi" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-25048-jhir0kko-v1/imageContent-25048-jhir0kko-m1.png",First India Rajasthan' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=650' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_884/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_884/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="937" group-title=" Spiritual" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-65108-ksr7d028-v1/imageContent-65108-ksr7d028-m2.png",Anaadi TV' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=937' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod1catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1333/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod1catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1333/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="14" group-title=" News" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-9012-j7ssufeo-v1/imageContent-9012-j7ssufeo-m1.png",India News Rajasthan' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=14' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_360/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_360/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="1188" group-title=" Entertainment" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/DDJH_Thumbnail-v2/DDJH_Thumbnail.png",DD Jharkhand' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=1188' + '\n';
-m3uStr += 'https://delta.tatasky.net/bpk-tv/irdeto_com_Channel_1967/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://delta.tatasky.net/bpk-tv/irdeto_com_Channel_1967/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="870" group-title=" Hindi" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-58492-kixkb2ug-v1/imageContent-58492-kixkb2ug-m1.png",Jan TV' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=870' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1147/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1147/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="332" group-title=" Hindi" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11375-j9jpws3k-v1/imageContent-11375-j9jpws3k-m1.png",DD Rajasthan' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=332' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_521/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_521/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="1152" group-title=" Others" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/NDTVRA_Thumbnail-v3/NDTVRA_Thumbnail.png",NDTV Rajasthan' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=1152' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1942/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1942/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="518" group-title=" Hindi" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/ZESA_Thumbnail-v3/ZESA_Thumbnail.png",Salaam TV' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=518' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_839/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_839/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="354" group-title=" Hindi" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11426-j9jqror4-v3/imageContent-11426-j9jqror4-m3.png",News18 Jammu Kashmir Ladakh Himachal' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=354' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_540/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_540/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="1075" group-title=" Others" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/SACHB_Thumbnail-v2/SACHB_Thumbnail.png",Sach Bedhadak' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=1075' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1888/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1888/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="308" group-title=" Marathi" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-16764-jcix3xpc-v2/imageContent-16764-jcix3xpc-m2.PNG",Colors Marathi HD' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=308' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_491/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_491/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="338" group-title=" Hindi" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11384-j9jq29mo-v2/imageContent-11384-j9jq29mo-m3.png",DD Urdu' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=338' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_524/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_524/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="134" group-title=" Marathi" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-450-j5jtumug-v3/imageContent-450-j5jtumug-m3.png",Colors Marathi' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=134' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_230/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_230/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="251" group-title="Marathi" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8846-j7pq3jmo-v2/imageContent-8846-j7pq3jmo-m3.png",Zee Marathi' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=251' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_424/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_424/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="501" group-title="Marathi" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Zee",Zee Marathi HD' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=501' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_836/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_836/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="622" group-title=" Marathi" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12925-jb5xf2nc-v2/imageContent-12925-jb5xf2nc-m2.png",Tata Play Marathi Cinema' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=622' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_854/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_854/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="161" group-title=" Hindi" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-7906-j7684flk-v1/imageContent-7906-j7684flk-m1.png",Channel WIN' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=161' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod1catchup.akamaized.net/bpk-tv/irdeto_com_Channel_354/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod1catchup.akamaized.net/bpk-tv/irdeto_com_Channel_354/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="658" group-title=" Marathi" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-30959-jky1nic8-v2/imageContent-30959-jky1nic8-m3.png",Sony Marathi' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=658' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_892/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_892/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="515" group-title="Marathi" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11987-j9lura8g-v1/imageContent-11987-j9lura8g-m1.png",Zee Talkies HD' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=515' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_841/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_841/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="365" group-title=" Hindi" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11455-j9jqz61k-v2/imageContent-11455-j9jqz61k-m4.png",Gulistan News' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=365' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod1catchup.akamaized.net/bpk-tv/irdeto_com_Channel_557/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod1catchup.akamaized.net/bpk-tv/irdeto_com_Channel_557/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="248" group-title=" Marathi" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11136-j96p4r28-v1/imageContent-11136-j96p4r28-m1.png",Zee YUVA' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=248' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_426/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_426/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="192" group-title=" Marathi" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-801-j5m7jg34-v2/imageContent-801-j5m7jg34-m2.png",Fakt Marathi' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=192' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_231/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_231/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="469" group-title=" Marathi" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11807-j9kyzle8-v1/imageContent-11807-j9kyzle8-m1.png",Star Pravah HD' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=469' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_744/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_744/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="18714" group-title=" Marathi" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/SPRPHD_Thumbnail-v1/SPRPHD_Thumbnail.png",Star Pravah Pictures HD ' + '\n';
@@ -2735,14 +2735,14 @@ m3uStr += '#EXTINF:-1 tvg-id="155" group-title=" Marathi" tvg-country="IN" tvg-l
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=155' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_328/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_328/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="249" group-title="Marathi" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Zee-Talkies-transparent.png",Zee Talkies' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=249' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_425/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_425/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="999" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/TONSMAR_Thumbnail-v10/TONSMAR_Thumbnail.png" group-title="",Tata Play Toons+' + '\n';
@@ -2753,56 +2753,56 @@ m3uStr += '#EXTINF:-1 tvg-id="140" group-title=" Marathi" tvg-country="IN" tvg-l
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=140' + '\n';
-m3uStr += 'https://tataplay.dinesh29.com.np/live/tataplay/news18-lokmat/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tataplay.dinesh29.com.np/live/tataplay/news18-lokmat/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="261" group-title=" Marathi" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11156-j96xbrfk-v1/imageContent-11156-j96xbrfk-m1.png",Zee 24 Taas' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=261' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_427/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_427/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="546" group-title=" Marathi" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12056-j9o5hia8-v1/imageContent-12056-j9o5hia8-m1.png",Saam TV' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=546' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_326/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_326/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="800" group-title=" Marathi" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-49025-k5lxf84o-v2/imageContent-49025-k5lxf84o-m2.png",Shemaroo MarathiBana' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=800' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_991/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_991/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="233" group-title=" Marathi" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1014-j5ngcjug-v2/imageContent-1014-j5ngcjug-m2.png",Jai Maharashtra' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=233' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_329/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_329/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="97" group-title=" Marathi" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-315-j5jjsht4-v2/imageContent-315-j5jjsht4-m2.png",TV9 Marathi' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=97' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_364/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_364/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="1102" group-title=" Others" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/PDNEWS_Thumbnail-v2/PDNEWS_Thumbnail.png",Pudhari News' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=1102' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1915/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1915/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="336" group-title=" Marathi" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11378-j9jq0f9s-v1/imageContent-11378-j9jq0f9s-m1.png",DD Sahyadri' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=336' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_522/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_522/output/manifest.mpd' + '\n';
 
 m3uStr += '#EXTINF:-1 tvg-id="816" group-title="Bengali" tvg-country="BD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png",Duronto TV HD' + '\n';
 m3uStr += 'https://dv8r.short.gy/Duronto_TV.m3u8' + '\n';
@@ -2822,35 +2822,35 @@ m3uStr += '#EXTINF:-1 tvg-id="305" group-title="Bengali" tvg-country="IN" tvg-lo
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=305' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_489/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_489/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="217" group-title=" Marathi" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-870-j5mb6j80-v1/imageContent-870-j5mb6j80-m1.png",Sangeet Marathi' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=217' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_363/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_363/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="468" group-title="Bengali" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/STJHD_Thumbnail-v3/STJHD_Thumbnail.png",Star Jalsha HD' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=468' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_736/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_736/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="522" group-title="Bengali" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11970-j9luk5ag-v1/imageContent-11970-j9luk5ag-m1.png",Zee Bangla HD' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=522' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_834/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_834/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="34" group-title=" Bengali" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-94-j5fjveio-v3/imageContent-94-j5fjveio-m2.png",SONY AATH' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=34' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_285/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_285/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="129" group-title=" Bengali" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-267-j5j8x17s-v1/imageContent-267-j5j8x17s-m2.png",Aakaash Aath' + '\n';
@@ -2864,137 +2864,137 @@ m3uStr += '#EXTINF:-1 tvg-id="537" group-title="Bengali" tvg-country="IN" tvg-lo
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=537' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_583/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_583/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="3" group-title="Bengali" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-9-j5f6oezc-v1/imageContent-9-j5f6oezc-m1.png",Ruposhi Bangla' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=3' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_284/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_284/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="995" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/TONSBEN_Thumbnail-v5/TONSBEN_Thumbnail.png" group-title="",Tata Play Toons+' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1823/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1823/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="788" group-title=" Bengali" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-48494-k3zd1a80-v1/imageContent-48494-k3zd1a80-m4.png",Enterr10 Bangla' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=788' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_978/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_978/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="254" group-title="Bengali" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11009-j8xbk7js-v1/imageContent-11009-j8xbk7js-m1.png",Zee Bangla Cinema' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=254' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_418/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_418/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="26" group-title="Bengali" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-75-j5fikj0o-v1/imageContent-75-j5fikj0o-m1.png",Colors Bangla' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=26' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod1catchup.akamaized.net/bpk-tv/irdeto_com_Channel_283/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod1catchup.akamaized.net/bpk-tv/irdeto_com_Channel_283/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="379" group-title=" Bengali" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-27017-jjo92wyg-v1/imageContent-27017-jjo92wyg-m1.png",Khushboo Bangla' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=379' + '\n';
-m3uStr += 'https://tataplay.dinesh29.com.np/live/tataplay/khushboo-bangla/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tataplay.dinesh29.com.np/live/tataplay/khushboo-bangla/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="258" group-title="Bengali" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-9031-j7u3nz6w-v1/imageContent-9031-j7u3nz6w-m1.png",Zee 24 Ghanta' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=258' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_419/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_419/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="1134" group-title=" Others" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/RPLUSG_Thumbnail-v1/RPLUSG_Thumbnail.png",R Plus Gold' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=1134' + '\n';
-m3uStr += 'https://tataplay.dinesh29.com.np/live/tataplay/r-plus-gold/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tataplay.dinesh29.com.np/live/tataplay/r-plus-gold/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="23" group-title=" Bengali" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-22186-jenuxy6g-v2/imageContent-22186-jenuxy6g-m5.png",News18 Bangla' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=23' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_286/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_286/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="381" group-title=" Bengali" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11533-j9jtxqgo-v1/imageContent-11533-j9jtxqgo-m1.png",Kolkata TV' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=381' + '\n';
-m3uStr += 'https://tataplay.dinesh29.com.np/live/tataplay/kolkata-tv/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tataplay.dinesh29.com.np/live/tataplay/kolkata-tv/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="102" group-title=" Bengali" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-321-j5jl5g5k-v2/imageContent-321-j5jl5g5k-m2.png",ABP Ananda' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=102' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_249/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_249/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="1132" group-title=" Others" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/RONGEEN_Thumbnail-v1/RONGEEN_Thumbnail.png",Rongeen TV' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=1132' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1926/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1926/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="896" group-title="Bengali" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/CLRBANG_Thumbnail-v2/CLRBANG_Thumbnail.png",Colors Bangla Cinema' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=896' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod1catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1305/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod1catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1305/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="207" group-title=" Bengali" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-852-j5m9xe80-v1/imageContent-852-j5m9xe80-m1.png",News Time Bangla' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=207' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_287/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_287/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="648" group-title=" Bengali" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-24685-jgrl9bqg-v1/imageContent-24685-jgrl9bqg-m2.png",Calcutta News' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=648' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_477/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_477/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="311" group-title=" Bengali" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11299-j9j61p1k-v1/imageContent-11299-j9j61p1k-m1.png",CTVN AKD Plus' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=311' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_495/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_495/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="873" group-title="Bengali" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-59401-kjudpa1c-v2/imageContent-59401-kjudpa1c-m3.png",TV9 Bangla' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=873' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod1catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1149/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod1catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1149/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="1103" group-title=" Others" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/NKTVBAN_Thumbnail-v3/NKTVBAN_Thumbnail.png",NKTV BANGLA' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=1103' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1916/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1916/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="314" group-title=" Bengali" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11314-j9j8kcxk-v1/imageContent-11314-j9j8kcxk-m1.png",DD Bangla' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=314' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_503/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_503/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="890" group-title=" News" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-61251-klylf4u0-v2/imageContent-61251-klylf4u0-m9.png",Republic Bangla' + '\n';
@@ -3016,7 +3016,7 @@ m3uStr += '#EXTINF:-1 tvg-id="250" group-title=" Telugu" tvg-country="IN" tvg-lo
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=250' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_415/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_415/output/manifest.mpd' + '\n';
 
 
 
@@ -3024,7 +3024,7 @@ m3uStr += '#EXTINF:-1 tvg-id="1133" group-title=" Others" tvg-country="IN" tvg-l
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=1133' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1927/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1927/output/manifest.mpd' + '\n';
 
 
 
@@ -3032,7 +3032,7 @@ m3uStr += '#EXTINF:-1 tvg-id="635" group-title=" Telugu" tvg-country="IN" tvg-lo
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=635' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_873/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_873/output/manifest.mpd' + '\n';
 
 
 
@@ -3040,7 +3040,7 @@ m3uStr += '#EXTINF:-1 tvg-id="215" group-title=" Bengali" tvg-country="IN" tvg-l
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=215' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_242/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_242/output/manifest.mpd' + '\n';
 
 
 
@@ -3048,7 +3048,7 @@ m3uStr += '#EXTINF:-1 tvg-id="359" group-title=" Telugu" tvg-country="IN" tvg-lo
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=359' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_537/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_537/output/manifest.mpd' + '\n';
 
 
 
@@ -3056,7 +3056,7 @@ m3uStr += '#EXTINF:-1 tvg-id="516" group-title=" Telugu" tvg-country="IN" tvg-lo
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=516' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_609/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_609/output/manifest.mpd' + '\n';
 
 
 
@@ -3064,7 +3064,7 @@ m3uStr += '#EXTINF:-1 tvg-id="355" group-title=" Telugu" tvg-country="IN" tvg-lo
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=355' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_553/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_553/output/manifest.mpd' + '\n';
 
 
 
@@ -3080,12 +3080,12 @@ m3uStr += '#EXTINF:-1 tvg-id="352" group-title=" Telugu" tvg-country="IN" tvg-lo
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=352' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_539/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_539/output/manifest.mpd' + '\n';
 
 
 
 m3uStr += '#EXTINF:-1 tvg-id="996" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/TONSTEL_Thumbnail-v4/TONSTEL_Thumbnail.png" group-title="",Tata Play Toons+' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1822/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1822/output/manifest.mpd' + '\n';
 
 
 
@@ -3101,7 +3101,7 @@ m3uStr += '#EXTINF:-1 tvg-id="361" group-title=" Telugu" tvg-country="IN" tvg-lo
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=361' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_549/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_549/output/manifest.mpd' + '\n';
 
 
 
@@ -3109,7 +3109,7 @@ m3uStr += '#EXTINF:-1 tvg-id="585" group-title=" Telugu" tvg-country="IN" tvg-lo
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=585' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_820/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_820/output/manifest.mpd' + '\n';
 
 
 
@@ -3117,7 +3117,7 @@ m3uStr += '#EXTINF:-1 tvg-id="362" group-title=" Telugu" tvg-country="IN" tvg-lo
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=362' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_550/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_550/output/manifest.mpd' + '\n';
 
 
 
@@ -3125,7 +3125,7 @@ m3uStr += '#EXTINF:-1 tvg-id="145" group-title=" Telugu" tvg-country="IN" tvg-lo
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=145' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod1catchup.akamaized.net/bpk-tv/irdeto_com_Channel_172/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod1catchup.akamaized.net/bpk-tv/irdeto_com_Channel_172/output/manifest.mpd' + '\n';
 
 
 
@@ -3133,7 +3133,7 @@ m3uStr += '#EXTINF:-1 tvg-id="387" group-title=" Telugu" tvg-country="IN" tvg-lo
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=387' + '\n';
-m3uStr += 'https://tataplay.dinesh29.com.np/live/tataplay/star-maa-movies hd/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tataplay.dinesh29.com.np/live/tataplay/star-maa-movies hd/manifest.mpd' + '\n';
 
 
 
@@ -3141,7 +3141,7 @@ m3uStr += '#EXTINF:-1 tvg-id="645" group-title=" Knowledge" tvg-country="IN" tvg
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=645' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_880/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_880/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="1168" group-title=" Others" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/TPHLTE_Thumbnail-v5/TPHLTE_Thumbnail.png",Tata Play Hollywood Local Telugu' + '\n';
@@ -3156,7 +3156,7 @@ m3uStr += '#EXTINF:-1 tvg-id="388" group-title=" Telugu" tvg-country="IN" tvg-lo
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=388' + '\n';
-m3uStr += 'https://tataplay.dinesh29.com.np/live/tataplay/star-maa-gold/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tataplay.dinesh29.com.np/live/tataplay/star-maa-gold/manifest.mpd' + '\n';
 
 
 
@@ -3164,7 +3164,7 @@ m3uStr += '#EXTINF:-1 tvg-id="636" group-title=" Telugu" tvg-country="IN" tvg-lo
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=636' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_871/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_871/output/manifest.mpd' + '\n';
 
 
 
@@ -3172,7 +3172,7 @@ m3uStr += '#EXTINF:-1 tvg-id="252" group-title=" Telugu" tvg-country="IN" tvg-lo
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=252' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_416/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_416/output/manifest.mpd' + '\n';
 
 
 
@@ -3180,7 +3180,7 @@ m3uStr += '#EXTINF:-1 tvg-id="268" group-title=" Telugu" tvg-country="IN" tvg-lo
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=268' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_538/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_538/output/manifest.mpd' + '\n';
 
 
 
@@ -3188,7 +3188,7 @@ m3uStr += '#EXTINF:-1 tvg-id="1073" group-title=" Others" tvg-country="IN" tvg-l
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=1073' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1887/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1887/output/manifest.mpd' + '\n';
 
 
 
@@ -3196,7 +3196,7 @@ m3uStr += '#EXTINF:-1 tvg-id="358" group-title=" Kannada" tvg-country="IN" tvg-l
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=358' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_536/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_536/output/manifest.mpd' + '\n';
 
 
 
@@ -3204,7 +3204,7 @@ m3uStr += '#EXTINF:-1 tvg-id="128" group-title=" Telugu" tvg-country="IN" tvg-lo
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=128' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_227/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_227/output/manifest.mpd' + '\n';
 
 
 
@@ -3212,7 +3212,7 @@ m3uStr += '#EXTINF:-1 tvg-id="146" group-title=" Telugu" tvg-country="IN" tvg-lo
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=146' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_226/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_226/output/manifest.mpd' + '\n';
 
 
 
@@ -3220,7 +3220,7 @@ m3uStr += '#EXTINF:-1 tvg-id="11" group-title=" Telugu" tvg-country="IN" tvg-log
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=11' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_290/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_290/output/manifest.mpd' + '\n';
 
 
 
@@ -3228,7 +3228,7 @@ m3uStr += '#EXTINF:-1 tvg-id="596" group-title=" Telugu" tvg-country="IN" tvg-lo
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=596' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_701/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_701/output/manifest.mpd' + '\n';
 
 
 
@@ -3236,7 +3236,7 @@ m3uStr += '#EXTINF:-1 tvg-id="320" group-title=" Telugu" tvg-country="IN" tvg-lo
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=320' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_802/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_802/output/manifest.mpd' + '\n';
 
 
 
@@ -3252,7 +3252,7 @@ m3uStr += '#EXTINF:-1 tvg-id="225" group-title=" Telugu" tvg-country="IN" tvg-lo
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=225' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_295/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_295/output/manifest.mpd' + '\n';
 
 
 
@@ -3260,7 +3260,7 @@ m3uStr += '#EXTINF:-1 tvg-id="160" group-title=" Telugu" tvg-country="IN" tvg-lo
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=160' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_297/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_297/output/manifest.mpd' + '\n';
 
 
 
@@ -3278,7 +3278,7 @@ m3uStr += '#EXTINF:-1 tvg-id="274" group-title=" Telugu" tvg-country="IN" tvg-lo
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=274' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_810/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_810/output/manifest.mpd' + '\n';
 
 
 
@@ -3296,7 +3296,7 @@ m3uStr += '#EXTINF:-1 tvg-id="49" group-title=" Tamil" tvg-country="IN" tvg-logo
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=49' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_298/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_298/output/manifest.mpd' + '\n';
 
 
 
@@ -3304,7 +3304,7 @@ m3uStr += '#EXTINF:-1 tvg-id="349" group-title=" Telugu" tvg-country="IN" tvg-lo
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=349' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_566/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_566/output/manifest.mpd' + '\n';
 
 
 
@@ -3312,7 +3312,7 @@ m3uStr += '#EXTINF:-1 tvg-id="525" group-title=" Telugu" tvg-country="IN" tvg-lo
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=525' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_372/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_372/output/manifest.mpd' + '\n';
 
 
 
@@ -3320,7 +3320,7 @@ m3uStr += '#EXTINF:-1 tvg-id="774" group-title=" Telugu" tvg-country="IN" tvg-lo
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=774' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_970/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_970/output/manifest.mpd' + '\n';
 
 
 
@@ -3328,7 +3328,7 @@ m3uStr += '#EXTINF:-1 tvg-id="83" group-title=" Telugu" tvg-country="IN" tvg-log
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=83' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_296/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_296/output/manifest.mpd' + '\n';
 
 
 
@@ -3336,7 +3336,7 @@ m3uStr += '#EXTINF:-1 tvg-id="1027" group-title=" Others" tvg-country="IN" tvg-l
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=1027' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1849/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1849/output/manifest.mpd' + '\n';
 
 
 
@@ -3344,7 +3344,7 @@ m3uStr += '#EXTINF:-1 tvg-id="266" group-title=" Telugu" tvg-country="IN" tvg-lo
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=266' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod1catchup.akamaized.net/bpk-tv/irdeto_com_Channel_433/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod1catchup.akamaized.net/bpk-tv/irdeto_com_Channel_433/output/manifest.mpd' + '\n';
 
 
 
@@ -3352,7 +3352,7 @@ m3uStr += '#EXTINF:-1 tvg-id="337" group-title=" Telugu" tvg-country="IN" tvg-lo
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=337' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_523/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_523/output/manifest.mpd' + '\n';
 
 
 
@@ -3360,14 +3360,14 @@ m3uStr += '#EXTINF:-1 tvg-id="1099" group-title=" Others" tvg-country="IN" tvg-l
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=1099' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1910/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1910/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="1100" group-title=" Others" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/BGTVTEL_Thumbnail-v2/BGTVTEL_Thumbnail.png",BIG TV Telugu' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=1100' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1909/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1909/output/manifest.mpd' + '\n';
 
 
 
@@ -3375,7 +3375,7 @@ m3uStr += '#EXTINF:-1 tvg-id="548" group-title=" Telugu" tvg-country="IN" tvg-lo
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=548' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_526/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_526/output/manifest.mpd' + '\n';
 
 
 
@@ -3383,14 +3383,14 @@ m3uStr += '#EXTINF:-1 tvg-id="1151" group-title=" Others" tvg-country="IN" tvg-l
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=1151' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1923/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1923/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="1118" group-title=" News" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/News360_Thumbnail-v3/News360_Thumbnail.png",News 360' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=1118' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1920/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1920/output/manifest.mpd' + '\n';
 
 
 
@@ -3398,7 +3398,7 @@ m3uStr += '#EXTINF:-1 tvg-id="541" group-title=" Telugu" tvg-country="IN" tvg-lo
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=541' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_686/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_686/output/manifest.mpd' + '\n';
 
 
 
@@ -3406,7 +3406,7 @@ m3uStr += '#EXTINF:-1 tvg-id="445" group-title=" Telugu" tvg-country="IN" tvg-lo
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=445' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_716/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_716/output/manifest.mpd' + '\n';
 
 
 
@@ -3414,7 +3414,7 @@ m3uStr += '#EXTINF:-1 tvg-id="290" group-title=" Telugu" tvg-country="IN" tvg-lo
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=290' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_474/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_474/output/manifest.mpd' + '\n';
 
 
 
@@ -3422,7 +3422,7 @@ m3uStr += '#EXTINF:-1 tvg-id="521" group-title="Tamil" tvg-logo="https://mediare
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=521' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_760/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_760/output/manifest.mpd' + '\n';
 
 
 
@@ -3430,7 +3430,7 @@ m3uStr += '#EXTINF:-1 tvg-id="351" group-title=" Telugu" tvg-country="IN" tvg-lo
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=351' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_533/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_533/output/manifest.mpd' + '\n';
 
 
 
@@ -3438,7 +3438,7 @@ m3uStr += '#EXTINF:-1 tvg-id="496" group-title=" Tamil" tvg-country="IN" tvg-log
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=496' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_818/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_818/output/manifest.mpd' + '\n';
 
 m3uStr += '#EXTINF:-1 tvg-id="235" group-title=" Tamil" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/VISUHD_Thumbnail-v1/VISUHD_Thumbnail.png",Star Vijay Super' + '\n';
 m3uStr += 'https://dv8r.short.gy/Star_vijay_super.m3u8' + '\n';
@@ -3449,7 +3449,7 @@ m3uStr += '#EXTINF:-1 tvg-id="630" group-title=" Telugu" tvg-country="IN" tvg-lo
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=630' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_864/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_864/output/manifest.mpd' + '\n';
 
 
 
@@ -3457,7 +3457,7 @@ m3uStr += '#EXTINF:-1 tvg-id="474" group-title="Tamil" tvg-logo="https://mediare
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=474' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_756/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_756/output/manifest.mpd' + '\n';
 
 
 
@@ -3474,7 +3474,7 @@ m3uStr += '#EXTINF:-1 tvg-id="608" group-title=" Tamil" tvg-country="IN" tvg-log
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=608' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_842/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_842/output/manifest.mpd' + '\n';
 
 
 
@@ -3482,7 +3482,7 @@ m3uStr += '#EXTINF:-1 tvg-id="285" group-title=" Telugu" tvg-country="IN" tvg-lo
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=285' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod1catchup.akamaized.net/bpk-tv/irdeto_com_Channel_460/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod1catchup.akamaized.net/bpk-tv/irdeto_com_Channel_460/output/manifest.mpd' + '\n';
 
 
 
@@ -3490,21 +3490,21 @@ m3uStr += '#EXTINF:-1 tvg-id="257" group-title=" Tamil" tvg-country="IN" tvg-log
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=257' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_429/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_429/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="674" group-title=" Tamil" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-33814-jo5jba9s-v3/imageContent-33814-jo5jba9s-m3.PNG",Colors Tamil HD' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=674' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_916/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_916/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="418" group-title=" Tamil" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-21152-je6orzfk-v1/imageContent-21152-je6orzfk-m1.png",Colors Tamil' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=418' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_665/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_665/output/manifest.mpd' + '\n';
 
 
 
@@ -3512,7 +3512,7 @@ m3uStr += '#EXTINF:-1 tvg-id="708" group-title=" Telugu" tvg-country="IN" tvg-lo
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=708' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_947/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_947/output/manifest.mpd' + '\n';
 
 
 
@@ -3520,7 +3520,7 @@ m3uStr += '#EXTINF:-1 tvg-id="200" group-title=" Tamil" tvg-country="IN" tvg-log
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=200' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_344/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_344/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="997" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/TONSTAM_Thumbnail-v6/TONSTAM_Thumbnail.png" group-title="",Tata Play Toons+' + '\n';
@@ -3531,28 +3531,28 @@ m3uStr += '#EXTINF:-1 tvg-id="426" group-title=" Tamil" tvg-country="IN" tvg-log
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=426' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_683/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_683/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="439" group-title=" Tamil" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11700-j9ksbotk-v1/imageContent-11700-j9ksbotk-m1.png",Raj TV' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=439' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_691/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_691/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="99" group-title=" Tamil" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-44904-jzu8ri4o-v1/imageContent-44904-jzu8ri4o-m1.png",D Tamil' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=99' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_234/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_234/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="37" group-title=" Tamil" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-111-j5fl5xo8-v1/imageContent-111-j5fl5xo8-m1.png",Mega TV' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=37' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_347/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_347/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="723" group-title=" Tamil" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-41267-jwjjvrt4-v5/imageContent-41267-jwjjvrt4-m7.png",Tamil Naaptol' + '\n';
@@ -3566,49 +3566,49 @@ m3uStr += '#EXTINF:-1 tvg-id="272" group-title=" Tamil" tvg-country="IN" tvg-log
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=272' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_674/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_674/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="392" group-title=" Tamil" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11565-j9jv0np4-v1/imageContent-11565-j9jv0np4-m1.png",Makkal TV' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=392' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_617/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_617/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="611" group-title=" Tamil" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12244-j9qq7k1c-v1/imageContent-12244-j9qq7k1c-m1.png",Sirippoli' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=611' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_717/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_717/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="380" group-title=" Tamil" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11536-j9jty5w8-v1/imageContent-11536-j9jty5w8-m1.png",KTV HD' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=380' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_600/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_600/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="201" group-title=" Tamil" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-816-j5m8dqd4-v1/imageContent-816-j5m8dqd4-m1.png",J Movies' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=201' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_345/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_345/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="659" group-title=" Tamil" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-31187-jldgeg1k-v2/imageContent-31187-jldgeg1k-m2.png",Vendhar TV' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=659' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_815/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_815/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="797" group-title=" Tamil" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Zee",Zee Thirai' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=797' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_989/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_989/output/manifest.mpd' + '\n';
 
 
 
@@ -3616,7 +3616,7 @@ m3uStr += '#EXTINF:-1 tvg-id="1182" group-title=" Tamil" tvg-country="IN" tvg-lo
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=1182' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1962/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1962/output/manifest.mpd' + '\n';
 
 
 
@@ -3624,7 +3624,7 @@ m3uStr += '#EXTINF:-1 tvg-id="444" group-title=" Lifestyle" tvg-country="IN" tvg
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=444' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_789/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_789/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="499" group-title=" Tamil" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11900-j9l4vygg-v1/imageContent-11900-j9l4vygg-m1.png",Vasanth TV' + '\n';
@@ -3638,133 +3638,133 @@ m3uStr += '#EXTINF:-1 tvg-id="220" group-title=" Tamil" tvg-country="IN" tvg-log
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=220' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_233/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_233/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="198" group-title=" Tamil" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-810-j5m84h14-v1/imageContent-810-j5m84h14-m1.png",Jaya Plus' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=198' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_346/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_346/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="524" group-title=" Tamil" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11966-j9luich4-v1/imageContent-11966-j9luich4-m1.png",Thanthi TV' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=524' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_778/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_778/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="44" group-title=" Tamil" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-126-j5fnf4ig-v2/imageContent-126-j5fnf4ig-m2.png",Seithigal TV' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=44' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_349/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_349/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="509" group-title=" Tamil" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11942-j9lthi34-v1/imageContent-11942-j9lthi34-m1.png",Polimer News' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=509' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_673/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_673/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="58" group-title=" Tamil" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-192-j5fsr3s0-v1/imageContent-192-j5fsr3s0-m1.png",News18 Tamil Nadu' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=58' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_373/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_373/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="525" group-title=" Tamil" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12002-j9nrtf08-v2/imageContent-12002-j9nrtf08-m2.png",Raj News Tamil' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=525' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_372/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_372/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="702" group-title=" Tamil" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-37207-jswmhmpk-v1/imageContent-37207-jswmhmpk-m1.PNG",News J' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=702' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_943/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_943/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="455" group-title=" Tamil" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11764-j9kwqj6o-v1/imageContent-11764-j9kwqj6o-m1.png",Sathiyam TV' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=455' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_711/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_711/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="968" group-title=" Tamil" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-69018-kzo65wi0-v1/imageContent-69018-kzo65wi0-m2.png",News Tamil 24x7' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=968' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1794/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1794/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="391" group-title=" Tamil" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/MAMUR_Thumbnail-v2/MAMUR_Thumbnail.png",MalaiMurasu Seithigal' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=391' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_618/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_618/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="199" group-title=" Tamil" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-807-j5m7zoyo-v1/imageContent-807-j5m7zoyo-m1.png",Jaya Max' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=199' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_350/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_350/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="425" group-title=" Tamil" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11682-j9khxjoo-v1/imageContent-11682-j9khxjoo-m1.png",Raj Musix' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=425' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_684/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_684/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="334" group-title=" Tamil" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11369-j9jpvzjs-v1/imageContent-11369-j9jpvzjs-m1.png",DD Podhigai' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=334' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_519/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_519/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="400" group-title=" Tamil" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11583-j9jype8w-v3/imageContent-11583-j9jype8w-m3.png",Mega Musiq' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=400' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_624/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_624/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="647" group-title=" Tamil" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-24578-jgotgry0-v1/imageContent-24578-jgotgry0-m1.png",Isaiaruvi' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=647' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_578/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_578/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="390" group-title=" Tamil" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11562-j9juzmns-v1/imageContent-11562-j9juzmns-m1.png",Madha TV' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=390' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_614/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_614/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="411" group-title=" Tamil" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11616-j9k04eo0-v1/imageContent-11616-j9k04eo0-m1.png",Murasu TV' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=411' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_644/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_644/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="434" group-title=" Tamil" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11712-j9kt9fbs-v2/imageContent-11712-j9kt9fbs-m2.png",Jothi TV' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=434' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_699/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_699/output/manifest.mpd' + '\n';
 
 
 
@@ -3772,7 +3772,7 @@ m3uStr += '#EXTINF:-1 tvg-id="490" group-title=" Telugu" tvg-country="IN" tvg-lo
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=490' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_771/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_771/output/manifest.mpd' + '\n';
 
 
 
@@ -3780,7 +3780,7 @@ m3uStr += '#EXTINF:-1 tvg-id="282" group-title=" Tamil" tvg-country="IN" tvg-log
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=282' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod1catchup.akamaized.net/bpk-tv/irdeto_com_Channel_456/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod1catchup.akamaized.net/bpk-tv/irdeto_com_Channel_456/output/manifest.mpd' + '\n';
 
 
 
@@ -3788,70 +3788,70 @@ m3uStr += '#EXTINF:-1 tvg-id="108" group-title=" Kannada" tvg-country="IN" tvg-l
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=108' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_157/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_157/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="612" group-title=" Kannada" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12249-j9qr87hc-v5/imageContent-12249-j9qr87hc-m5.png",Colors Kannada HD' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=612' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_490/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_490/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="492" group-title=" Kannada" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11883-j9l3rjzc-v1/imageContent-11883-j9l3rjzc-m1.png",Udaya TV HD' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=492' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_806/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_806/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="467" group-title=" Kannada" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11816-j9kz224o-v1/imageContent-11816-j9kz224o-m1.png",Star Suvarna HD' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=467' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_746/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_746/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="256" group-title=" Kannada" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11030-j8yk2g3s-v1/imageContent-11030-j8yk2g3s-m1.png",Zee Kannada' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=256' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_423/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_423/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="533" group-title=" Kannada" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-18308-jcqnzl68-v1/imageContent-18308-jcqnzl68-m1.PNG",Colors SUPER' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=533' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_492/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_492/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="372" group-title=" Malayalam" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12323-jaa5pzxs-v1/imageContent-12323-jaa5pzxs-m1.png",Jeevan TV' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=372' + '\n';
-m3uStr += 'https://tataplay.dinesh29.com.np/live/tataplay/jeevan-tv/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tataplay.dinesh29.com.np/live/tataplay/jeevan-tv/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="675" group-title=" Kannada" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-33827-jo5kcr1c-v4/imageContent-33827-jo5kcr1c-m5.png",Zee Kannada HD' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=675' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_917/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_917/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="231" group-title=" Kannada" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1002-j5nf74c0-v1/imageContent-1002-j5nf74c0-m1.png",Udaya Movies' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=231' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_228/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_228/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="940" group-title=" Kannada" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-65190-ktai1xtk-v1/imageContent-65190-ktai1xtk-m1.png",SIRIKANNADA Alltime' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=940' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1771/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1771/output/manifest.mpd' + '\n';
 
 
 
@@ -3859,7 +3859,7 @@ m3uStr += '#EXTINF:-1 tvg-id="408" group-title=" Tamil" tvg-country="IN" tvg-log
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=408' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod1catchup.akamaized.net/bpk-tv/irdeto_com_Channel_651/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod1catchup.akamaized.net/bpk-tv/irdeto_com_Channel_651/output/manifest.mpd' + '\n';
 
 
 
@@ -3874,448 +3874,448 @@ m3uStr += '#EXTINF:-1 tvg-id="667" group-title=" Kannada" tvg-country="IN" tvg-l
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=667' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_900/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_900/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="661" group-title=" Kannada" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-31188-jldk0joo-v2/imageContent-31188-jldk0joo-m2.png",Public Movies' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=661' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_894/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_894/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="810" group-title=" Kannada" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-52310-k7bd8ixk-v2/imageContent-52310-k7bd8ixk-m4.png",Zee Picchar' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=810' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1000/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1000/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="555" group-title=" Kannada" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11963-j9lui4rc-v3/imageContent-11963-j9lui4rc-m4.png",Asianet Suvarna News' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=555' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_766/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_766/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="540" group-title=" Kannada" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12038-j9o0554o-v2/imageContent-12038-j9o0554o-m2.png",Star Suvarna Plus' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=540' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_767/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_767/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="152" group-title=" Kannada" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-531-j5kuelug-v2/imageContent-531-j5kuelug-m2.png",TV9 Kannada' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=152' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_317/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_317/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="196" group-title=" Kannada" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-822-j5m8ivjs-v1/imageContent-822-j5m8ivjs-m1.png",Kasthuri' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=196' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_314/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_314/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="33" group-title=" Kannada" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-98-j5fjwu7s-v2/imageContent-98-j5fjwu7s-m3.png",Public TV' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=33' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_316/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_316/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="1181" group-title=" Others" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/ZEPIHD_Thumbnail-v1/ZEPIHD_Thumbnail.png",Zee Picchar HD' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=1181' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod1catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1960/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod1catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1960/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="85" group-title=" Kannada" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-9824-j85wb88o-v1/imageContent-9824-j85wb88o-m1.png",News18 Kannada' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=85' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_229/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_229/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="824" group-title=" Kannada" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-53941-kblrui1c-v3/imageContent-53941-kblrui1c-m3.png",Power TV' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=824' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1119/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1119/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="913" group-title=" Kannada" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/NWS1ST_Thumbnail-v3/NWS1ST_Thumbnail.png",News 1st Kannada' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=913' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1320/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1320/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="510" group-title=" Kannada" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11948-j9ltrfc8-v1/imageContent-11948-j9ltrfc8-m1.png",Raj News Kannada' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=510' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_688/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_688/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="629" group-title=" Kannada" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-19066-jczvvocg-v1/imageContent-19066-jczvvocg-m1.png",TV5 Kannada' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=629' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_863/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_863/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="427" group-title=" Kannada" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11685-j9kipky0-v1/imageContent-11685-j9kipky0-m2.png",Raj Musix Kannada' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=427' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_685/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_685/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="1116" group-title=" Others" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/PRJAATV_Thumbnail-v2/PRJAATV_Thumbnail.png",Prajaa TV' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=1116' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1919/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1919/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="1077" group-title=" Others" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/VISNEWS_Thumbnail-v2/VISNEWS_Thumbnail.png",Vistara News' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=1077' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1891/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1891/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="424" group-title=" Kannada" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11676-j9khi3cw-v1/imageContent-11676-j9khi3cw-m1.png",Public Music' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=424' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_679/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_679/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="321" group-title=" Kannada" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11338-j9jozdxs-v1/imageContent-11338-j9jozdxs-m1.png",DD Chandana' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=321' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_506/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_506/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="477" group-title=" Kannada" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11788-j9kypa94-v1/imageContent-11788-j9kypa94-m2.png",Sri Sankara TV' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=477' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_728/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_728/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="107" group-title=" Gujarati" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-340-j5jmiei0-v1/imageContent-340-j5jmiei0-m1.png",Colors Gujarati' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=107' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_211/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_211/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="971" group-title=" Kannada" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-69020-kzo676so-v1/imageContent-69020-kzo676so-m1.png",SVBC 3' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=971' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1798/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1798/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="772" group-title=" Gujarati" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-47224-k1uh5c4g-v2/imageContent-47224-k1uh5c4g-m2.png",Tata Play Gujarati Cinema' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=772' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_967/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_967/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="489" group-title=" Gujarati" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11874-j9l376yg-v2/imageContent-11874-j9l376yg-m2.png",TV9 Gujarati' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=489' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_803/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_803/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="692" group-title=" Gujarati" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-35306-jqxwmaeo-v1/imageContent-35306-jqxwmaeo-m2.png",Colors Gujarati Cinema' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=692' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_934/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_934/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="586" group-title=" Gujarati" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12167-j9phnio0-v2/imageContent-12167-j9phnio0-m2.png",Sandesh News' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=586' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_712/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_712/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="303" group-title=" Gujarati" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11281-j9j4lf3k-v1/imageContent-11281-j9j4lf3k-m1.png",CNBC Bajaar' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=303' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_487/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_487/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="552" group-title=" Gujarati" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12068-j9o9t9jc-v1/imageContent-12068-j9o9t9jc-m1.png",Gujarat Samachar TV' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=552' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_292/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_292/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="6" group-title=" Gujarati" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-15-j5f97j2o-v4/imageContent-15-j5f97j2o-m3.png",News18 Gujarati' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=6' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_291/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_291/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="73" group-title=" Gujarati" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-228-j5fxgzio-v2/imageContent-228-j5fxgzio-m2.png",ABP Asmita' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=73' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_378/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_378/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="507" group-title=" Gujarati" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11924-j9l5fs6w-v3/imageContent-11924-j9l5fs6w-m3.png",Zee 24 Kalak' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=507' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_833/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_833/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="660" group-title=" Kannada" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11257-j9iy8oj4-v2/imageContent-11257-j9iy8oj4-m2.png",Ayush TV' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=660' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod1catchup.akamaized.net/bpk-tv/irdeto_com_Channel_893/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod1catchup.akamaized.net/bpk-tv/irdeto_com_Channel_893/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="654" group-title=" Gujarati" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-26589-jj9w5h54-v1/imageContent-26589-jj9w5h54-m2.png",India News Gujarat' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=654' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_987/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_987/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="974" group-title=" Gujarati" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/1STGUJ_Thumbnail-v2/1STGUJ_Thumbnail.png",1st Gujarat' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=974' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1803/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1803/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="891" group-title=" News" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-61443-kmbf79yw-v1/imageContent-61443-kmbf79yw-m1.png",Mantavya News' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=891' + '\n';
-m3uStr += 'https://tataplay.dinesh29.com.np/live/tataplay/mantavya-news/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tataplay.dinesh29.com.np/live/tataplay/mantavya-news/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="1087" group-title=" News" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/PRVEG_Thumbnail-v3/PRVEG_Thumbnail.png",PRAVEG' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=1087' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1899/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1899/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="497" group-title=" Gujarati" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11912-j9l58n8w-v2/imageContent-11912-j9l58n8w-m4.png",VTV News' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=497' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_821/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_821/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="978" group-title=" Odia" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-69926-l1ooghuw-v3/imageContent-69926-l1ooghuw-m3.png",Sidharth TV' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=978' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1808/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1808/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="115" group-title=" Odia" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-355-j5jndjn4-v1/imageContent-355-j5jndjn4-m2.png",Colors Oriya' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=115' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_215/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_215/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="323" group-title=" Gujarati" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11341-j9jpdu00-v1/imageContent-11341-j9jpdu00-m1.png",DD Girnar' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=323' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_507/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_507/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="1097" group-title=" Gujarati" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/ASTHAGUJ_Thumbnail-v2/ASTHAGUJ_Thumbnail.png",Aastha Gujarati' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=1097' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1908/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1908/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="597" group-title=" Odia" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12207-j9qlt5vk-v2/imageContent-12207-j9qlt5vk-m2.png",Zee Sarthak' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=597' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_709/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_709/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="421" group-title=" Tamil" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11667-j9kdkb6w-v1/imageContent-11667-j9kdkb6w-m1.png",Peppers TV' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=421' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_671/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_671/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="376" group-title=" Odia" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12271-j9to48zc-v1/imageContent-12271-j9to48zc-m2.png",Kanak News' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=376' + '\n';
-m3uStr += 'https://tataplay.dinesh29.com.np/live/tataplay/kanak-news/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tataplay.dinesh29.com.np/live/tataplay/kanak-news/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="375" group-title=" Odia" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11513-j9jtooug-v1/imageContent-11513-j9jtooug-m1.png",Kalinga TV' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=375' + '\n';
-m3uStr += 'https://tataplay.dinesh29.com.np/live/tataplay/kalinga-tv/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tataplay.dinesh29.com.np/live/tataplay/kalinga-tv/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="1170" group-title=" Others" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/SIDGL_Thumbnail-v1/SIDGL_Thumbnail.png",Sidharth GOLD' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=1170' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1952/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1952/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="41" group-title=" Odia" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-13243-jbirprzs-v1/imageContent-13243-jbirprzs-m1.png",News18 Odia' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=41' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_337/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_337/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="333" group-title=" Odia" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11366-j9jpvkw0-v1/imageContent-11366-j9jpvkw0-m1.png",DD Odia' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=333' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_518/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_518/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="448" group-title=" Odia" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11733-j9kw4100-v4/imageContent-11733-j9kw4100-m4.png",News7' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=448' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_676/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_676/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="1169" group-title=" Others" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/JJAG_Thumbnail-v1/JJAG_Thumbnail.png",Jay Jagannath' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=1169' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1951/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1951/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="292" group-title=" Malayalam" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11246-j9iw5g74-v3/imageContent-11246-j9iw5g74-m3.png",Asianet HD' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=292' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_464/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_464/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="230" group-title=" Malayalam" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1005-j5nfiy9c-v1/imageContent-1005-j5nfiy9c-m1.png",Surya TV' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=230' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_212/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_212/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="294" group-title=" Malayalam" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11254-j9ixwlcg-v1/imageContent-11254-j9ixwlcg-m1.png",Asianet Plus' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=294' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_467/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_467/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="684" group-title=" Malayalam" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-9003-j7rlh2aw-v2/imageContent-9003-j7rlh2aw-m2.png",Zee Keralam' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=684' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_926/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_926/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="694" group-title=" Malayalam" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-35312-jqy146c8-v3/imageContent-35312-jqy146c8-m8.png",Zee Keralam HD' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=694' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_933/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_933/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="10" group-title=" Malayalam" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-27-j5fbpbbs-v1/imageContent-27-j5fbpbbs-m1.png",Flowers' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=10' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_318/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_318/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="805" group-title=" Odia" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-49597-k6k8ts8g-v2/imageContent-49597-k6k8ts8g-m2.png",Nandighosha TV' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=805' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod1catchup.akamaized.net/bpk-tv/irdeto_com_Channel_993/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod1catchup.akamaized.net/bpk-tv/irdeto_com_Channel_993/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="907" group-title=" Odia" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-62573-kop7duow-v6/imageContent-62573-kop7duow-m9.png",Argus News' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=907' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod1catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1314/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod1catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1314/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="395" group-title=" Malayalam" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11577-j9jv8mqg-v1/imageContent-11577-j9jv8mqg-m1.png",Mazhavil Manorama HD' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=395' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_621/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_621/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="904" group-title=" Malayalam" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-62245-kny89ag0-v2/imageContent-62245-kny89ag0-m2.png",Malayalam Naaptol' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=904' + '\n';
-m3uStr += 'https://tataplay.dinesh29.com.np/live/tataplay/malayalam-naaptol/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tataplay.dinesh29.com.np/live/tataplay/malayalam-naaptol/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="25" group-title=" Malayalam" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-33-j5fc5fko-v1/imageContent-33-j5fc5fko-m1.png",Kairali TV' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=25' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_319/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_319/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="178" group-title=" Malayalam" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-762-j5m21xqw-v1/imageContent-762-j5m21xqw-m1.png",Amrita TV' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=178' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_325/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_325/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="553" group-title=" Malayalam" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12065-j9o9phqg-v1/imageContent-12065-j9o9phqg-m1.png",We TV' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=553' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_322/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_322/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="229" group-title=" Malayalam" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1008-j5nfqjeo-v1/imageContent-1008-j5nfqjeo-m1.png",Surya Movies' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=229' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_243/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_243/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="953" group-title=" Malayalam" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-66564-kup0jo0w-v1/imageContent-66564-kup0jo0w-m3.png",Asianet Plus' + '\n';
@@ -4329,28 +4329,28 @@ m3uStr += '#EXTINF:-1 tvg-id="293" group-title=" Malayalam" tvg-country="IN" tvg
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=293' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_465/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_465/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="532" group-title=" Malayalam" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12020-j9ntf12w-v1/imageContent-12020-j9ntf12w-m1.png",Asianet News' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=532' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_466/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_466/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="436" group-title=" Knowledge" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11709-j9kt6bg0-v1/imageContent-11709-j9kt6bg0-m1.png",Safari TV' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=436' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_698/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_698/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="211" group-title=" Malayalam" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-855-j5ma1eig-v2/imageContent-855-j5ma1eig-m2.png",Kairali News' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=211' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_323/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_323/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="933" group-title=" Malayalam" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-64891-ks8v01o8-v1/imageContent-64891-ks8v01o8-m2.png",Asianet Movies' + '\n';
@@ -4364,119 +4364,119 @@ m3uStr += '#EXTINF:-1 tvg-id="87" group-title=" Malayalam" tvg-country="IN" tvg-
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=87' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_244/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_244/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="66" group-title=" Malayalam" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12309-ja9ac8n4-v1/imageContent-12309-ja9ac8n4-m1.png",News18 Kerala' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=66' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_374/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_374/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="394" group-title=" Malayalam" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11572-j9jv7wi0-v1/imageContent-11572-j9jv7wi0-m1.png",Mathrubhumi News' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=394' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_620/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_620/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="31" group-title=" Malayalam" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-90-j5fjv4hk-v1/imageContent-90-j5fjv4hk-m1.png",Mazhavil Manorama' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=31' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod1catchup.akamaized.net/bpk-tv/irdeto_com_Channel_320/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod1catchup.akamaized.net/bpk-tv/irdeto_com_Channel_320/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="576" group-title=" Malayalam" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12137-j9p7pmeo-v2/imageContent-12137-j9p7pmeo-m2.png",Media One' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=576' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_321/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_321/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="370" group-title=" Malayalam" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11495-j9jtg2ns-v2/imageContent-11495-j9jtg2ns-m2.png",Jaihind TV' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=370' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_581/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_581/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="428" group-title=" Malayalam" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11694-j9kjc0tc-v1/imageContent-11694-j9kjc0tc-m1.png",Raj News Malayalam' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=428' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_689/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_689/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="799" group-title=" Malayalam" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-49022-k5lxarmw-v2/imageContent-49022-k5lxarmw-m2.png",Twenty Four' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=799' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_990/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_990/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="270" group-title=" Malayalam" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11179-j9i3nhs8-v2/imageContent-11179-j9i3nhs8-m3.png",Janam TV' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=270' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod1catchup.akamaized.net/bpk-tv/irdeto_com_Channel_584/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod1catchup.akamaized.net/bpk-tv/irdeto_com_Channel_584/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="378" group-title=" Malayalam" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11524-j9jtu07c-v2/imageContent-11524-j9jtu07c-m2.png",Kaumudy TV' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=378' + '\n';
-m3uStr += 'https://tataplay.dinesh29.com.np/live/tataplay/kaumudy-tv/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tataplay.dinesh29.com.np/live/tataplay/kaumudy-tv/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="541" group-title=" Malayalam" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11688-j9kiz1zs-v1/imageContent-11688-j9kiz1zs-m1.png",Raj Musix Malayalam' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=541' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_686/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_686/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="377" group-title=" Malayalam" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11520-j9jtr0y8-v1/imageContent-11520-j9jtr0y8-m1.png",Kappa TV' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=377' + '\n';
-m3uStr += 'https://tataplay.dinesh29.com.np/live/tataplay/kappa-tv/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tataplay.dinesh29.com.np/live/tataplay/kappa-tv/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="269" group-title=" Malayalam" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11176-j9i3lv54-v2/imageContent-11176-j9i3lv54-m2.png",Goodness' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=269' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_555/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_555/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="1124" group-title=" Others" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/RETV_Thumbnail-v2/RETV_Thumbnail.png",Reporter TV' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=1124' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1922/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1922/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="348" group-title=" Malayalam" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-35638-jruyxl0g-v4/imageContent-35638-jruyxl0g-m7.PNG",Harvest TV 24x7' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=348' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_559/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_559/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="571" group-title=" Punjabi" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-68739-kywk7vq0-v1/imageContent-68739-kywk7vq0-m1.png",Tata Play Punjab De Rang' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=571' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_799/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_799/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="122" group-title=" Punjabi" tvg-country="IN" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/PTC_Punjabi.png",PTC Punjabi' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=122' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_216/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_216/output/manifest.mpd' + '\n';
 
 
 
@@ -4484,7 +4484,7 @@ m3uStr += '#EXTINF:-1 tvg-id="773" group-title=" Punjabi" tvg-country="IN" tvg-l
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=773' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod1catchup.akamaized.net/bpk-tv/irdeto_com_Channel_968/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod1catchup.akamaized.net/bpk-tv/irdeto_com_Channel_968/output/manifest.mpd' + '\n';
 
 
 
@@ -4492,21 +4492,21 @@ m3uStr += '#EXTINF:-1 tvg-id="457" group-title=" Malayalam" tvg-country="IN" tvg
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=457' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_714/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_714/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="356" group-title=" Malayalam" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11449-j9jqxsns-v1/imageContent-11449-j9jqxsns-m1.png",God TV' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=356' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_554/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_554/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="796" group-title=" Punjabi" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-49009-k5g6nid4-v1/imageContent-49009-k5g6nid4-m1.png",Zee Punjabi' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=796' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_988/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_988/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="998" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/TONSPUN_Thumbnail-v4/TONSPUN_Thumbnail.png" group-title="",Tata Play Toons+' + '\n';
@@ -4524,105 +4524,105 @@ m3uStr += '#EXTINF:-1 tvg-id="794" group-title=" Punjabi" tvg-country="IN" tvg-l
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=794' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_985/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_985/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="1083" group-title=" Others" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/TABHIT_Thumbnail-v2/TABHIT_Thumbnail.png",TABBAR HITS' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=1083' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1895/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1895/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="580" group-title=" Punjabi" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12155-j9pd5ug8-v1/imageContent-12155-j9pd5ug8-m1.png",Zee Punjab Haryana Himachal Pradesh' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=580' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_838/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_838/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="624" group-title=" Punjabi" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12931-jb64agig-v1/imageContent-12931-jb64agig-m1.png",Pitaara TV' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=624' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_855/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_855/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="91" group-title=" Punjabi" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-300-j5ji8seo-v1/imageContent-300-j5ji8seo-m1.png",PTC News' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=91' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_246/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_246/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="366" group-title=" Punjabi" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/INWPUB_Thumbnail-v2/INWPUB_Thumbnail.jpg",India News Punjab' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=366' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_573/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_573/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="232" group-title=" News" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1011-j5ng33kg-v2/imageContent-1011-j5ng33kg-m2.png",News18 Punjab Haryana' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=232' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_313/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_313/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="13" group-title=" News" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8968-j7rcix2w-v1/imageContent-8968-j7rcix2w-m1.png",India News Haryana' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=13' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_280/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_280/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="401" group-title=" News" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11587-j9jyvxl4-v1/imageContent-11587-j9jyvxl4-m1.png",MH One News' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=401' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_626/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_626/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="262" group-title=" Odia" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-35649-jrz9mhq0-v2/imageContent-35649-jrz9mhq0-m2.PNG",Zee Delhi NCR Haryana' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=262' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_428/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_428/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="787" group-title=" Punjabi" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-48498-k3zd4bsg-v1/imageContent-48498-k3zd4bsg-m3.png",ANB NEWS' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=787' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_979/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_979/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="972" group-title=" Hindi" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-69238-kzt9ig3k-v1/imageContent-69238-kzt9ig3k-m2.png",Khabar Fast' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=972' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1801/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1801/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="1085" group-title=" Others" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/WTVPunjabi_Thumbnail-v1/WTVPunjabi_Thumbnail.png",WPN World Punjabi TV' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=1085' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1898/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1898/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="989" group-title=" Others" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-71064-l427mi60-v2/imageContent-71064-l427mi60-m3.png",STV Haryana News' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=989' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1817/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1817/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="92" group-title=" Punjabi" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-297-j5ji8qv4-v1/imageContent-297-j5ji8qv4-m1.png",PTC Chak De' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=92' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_245/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_245/output/manifest.mpd' + '\n';
 m3uStr += 'https://cbqh.short.gy/bjtech_PTC_Chakde.m3u8' + '\n';
 
 
@@ -4630,28 +4630,28 @@ m3uStr += '#EXTINF:-1 tvg-id="335" group-title=" Punjabi" tvg-country="IN" tvg-l
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=335' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_520/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_520/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="1078" group-title=" Others" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/DAILYP_Thumbnail-v3/DAILYP_Thumbnail.png",Daily Post Punjab Haryana Himachal' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=1078' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1892/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1892/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="936" group-title=" Punjabi" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/PUNHTS_Thumbnail-v1/PUNHTS_Thumbnail.png",Punjabi Hits' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=936' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1334/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1334/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="922" group-title=" Punjabi" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-63498-kqq89g5k-v2/imageContent-63498-kqq89g5k-m3.png",PTC Music' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=922' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1322/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1322/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="2010" group-title=" Punjabi" tvg-country="IN" tvg-logo="https://media.ptcplay.com/uploads/channel/A-142x142.png?bf=0&f=jpg&p=true&q=85&w=250" ,PTC Dhol' + '\n';
@@ -4663,105 +4663,105 @@ m3uStr += '#EXTINF:-1 tvg-id="371" group-title=" News" tvg-country="IN" tvg-logo
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=371' + '\n';
-m3uStr += 'https://tataplay.dinesh29.com.np/live/tataplay/janta-tv/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tataplay.dinesh29.com.np/live/tataplay/janta-tv/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="193" group-title=" Punjabi" tvg-country="IN" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Chardikla_Time_TV.png",Chardikla Time TV' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=193' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_339/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_339/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="793" group-title=" Punjabi" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-57445-kg7p5yk8-v2/imageContent-57445-kg7p5yk8-m3.png",Living India News' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=793' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod1catchup.akamaized.net/bpk-tv/irdeto_com_Channel_984/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod1catchup.akamaized.net/bpk-tv/irdeto_com_Channel_984/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="567" group-title=" Others" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12106-j9ooxpug-v2/imageContent-12106-j9ooxpug-m2.png",Nepal 1' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=567' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_657/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_657/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="368" group-title=" Others" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11485-j9jsysqw-v1/imageContent-11485-j9jsysqw-m1.png",Indradhanu' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=368' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_576/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_576/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="214" group-title=" Others" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-860-j5mao56o-v1/imageContent-860-j5mao56o-m1.png",Rengoni TV' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=214' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_332/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_332/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="101" group-title=" Others" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-333-j5jl5q6o-v1/imageContent-333-j5jl5q6o-m1.png",Rang' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=101' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_214/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_214/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="353" group-title=" Others" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11411-j9jqocds-v1/imageContent-11411-j9jqocds-m1.png",DY 365' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=353' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_534/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_534/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="226" group-title=" Others" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-956-j5mipkxs-v1/imageContent-956-j5mipkxs-m1.png",NEWS LIVE' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=226' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_334/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_334/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="68" group-title=" Others" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12390-jai3fgy0-v1/imageContent-12390-jai3fgy0-m1.png",News18 Assam North East' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=68' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_375/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_375/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="221" group-title=" Others" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-879-j5mdmlqw-v1/imageContent-879-j5mdmlqw-m1.png",Protidin Time' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=221' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_335/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_335/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="423" group-title=" Others" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11673-j9kfe73s-v1/imageContent-11673-j9kfe73s-m1.png",Prag News' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=423' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_675/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_675/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="894" group-title=" Others" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/NKTVPLUS_Thumbnail-v2/NKTVPLUS_Thumbnail.png",NKTV PLUS' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=894' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1303/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1303/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="417" group-title=" Others" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11644-j9k1gjow-v1/imageContent-11644-j9k1gjow-m1.png",North East Live' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=417' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_664/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_664/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="977" group-title=" Others" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-69824-l1dfgvcg-v1/imageContent-69824-l1dfgvcg-m3.png",ND24-Newsdaily.in' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=977' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1806/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1806/output/manifest.mpd' + '\n';
 
 
 
@@ -4769,35 +4769,35 @@ m3uStr += '#EXTINF:-1 tvg-id="1076" group-title=" Others" tvg-country="IN" tvg-l
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=1076' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1890/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1890/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="1115" group-title=" Others" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/PTKB_Thumbnail-v1/PTKB_Thumbnail.png",Pratham Khabar 24x7' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=1115' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1918/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1918/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="449" group-title=" Others" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11728-j9kw1zp4-v1/imageContent-11728-j9kw1zp4-m1.png",Ramdhenu' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=449' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_692/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_692/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="331" group-title=" Others" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11363-j9jprc40-v1/imageContent-11363-j9jprc40-m1.png",DD North East' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=331' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_516/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_516/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="325" group-title=" Others" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11345-j9jpidkw-v1/imageContent-11345-j9jpidkw-m1.png",DD Kashir' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=325' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_509/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_509/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="912" group-title=" Music" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-62613-koxw351c-v1/imageContent-62613-koxw351c-m1.png",Haryana Beats' + '\n';
@@ -4822,7 +4822,7 @@ m3uStr += '#EXTINF:-1 tvg-id="991" group-title=" Others" tvg-country="IN" tvg-lo
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=991' + '\n';
-m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1819/output/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://tsdevil.shodns.in/tplay/ch.php?ts=https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1819/output/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="791" group-title=" Punjabi" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-48804-k4m7nz2w-v1/imageContent-48804-k4m7nz2w-m1.png",Fateh TV' + '\n';
@@ -5009,7 +5009,7 @@ m3uStr += '#EXTINF:-1 tvg-id="1256" group-title=" Others" tvg-country="IN" tvg-l
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=1256' + '\n';
-m3uStr += 'https://cable67tataplay.akamaized.net/OyeMusic/myStream/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://cable67tataplay.akamaized.net/OyeMusic/myStream/manifest.mpd' + '\n';
 
 
 
@@ -5024,7 +5024,7 @@ m3uStr += '#EXTINF:-1 tvg-id="1254" group-title=" Others" tvg-country="IN" tvg-l
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=1254' + '\n';
-m3uStr += 'https://cable65tataplay.akamaized.net/NationalNewsLive/myStream/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://cable65tataplay.akamaized.net/NationalNewsLive/myStream/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="1257" group-title=" Others" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/SANGAMTV_Thumbnail-v1/SANGAMTV_Thumbnail.png",Sangam TV' + '\n';
@@ -5038,7 +5038,7 @@ m3uStr += '#EXTINF:-1 tvg-id="1255" group-title=" Others" tvg-country="IN" tvg-l
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=1255' + '\n';
-m3uStr += 'https://cable66tataplay.akamaized.net/UpdateIndia/myStream/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://cable66tataplay.akamaized.net/UpdateIndia/myStream/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="845" group-title=" Punjabi" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-56404-kfet9quw-v1/imageContent-56404-kfet9quw-m1.png",Wah Punjabi' + '\n';
@@ -5393,14 +5393,14 @@ m3uStr += '#EXTINF:-1 tvg-id="1253" group-title=" Others" tvg-country="IN" tvg-l
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=1253' + '\n';
-m3uStr += 'https://cable69tataplay.akamaized.net/JeewanBhakti/myStream/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://cable69tataplay.akamaized.net/JeewanBhakti/myStream/manifest.mpd' + '\n';
 
 
 m3uStr += '#EXTINF:-1 tvg-id="1252" group-title=" Others" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/HARBUZ_Thumbnail-v2/HARBUZ_Thumbnail.png",Haryana Buzz' + '\n';
 m3uStr += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_type=clearkey' + '\n';
 m3uStr += '#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=1252' + '\n';
-m3uStr += 'https://cable68tataplay.akamaized.net/HaryanaBuzz/myStream/manifest.mpd?begin=20240513T010000&end=' + '\n';
+m3uStr += 'https://cable68tataplay.akamaized.net/HaryanaBuzz/myStream/manifest.mpd' + '\n';
 
 
 
