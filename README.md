@@ -20,7 +20,9 @@ a) npm install<br>
 b) npm run dev
 3) Enjoy!
 
-## Note : **use this playlist on OTT Navigator and set to reload data to 2.5 hours, Bcz key expires in 2.5 to 24 hours for most of channels.           
-        
-Special thanks to CodeCrafters for their API.
+## Note : **use this playlist on OTT Navigator and set to reload data to 2 to 4 hours, Bcz key expires in 4 to 24 hours for most of channels.           
+
+This script is only for educational purpose and not for sale. 
+
+##Special thanks to CodeCrafters for their API.##
 
