@@ -5561,9 +5561,9 @@ m3uStr += 'https://da.gd/xmenfreetv' + '\n';
                             let stringWithQuotes = chansList[i].clearkey;
 
                             if (stringWithQuotes !== null) {
-                                console.log(chansList[i].clearkey);
+                                //console.log(chansList[i].clearkey);
                                 //let stringWithoutQuotes = stringWithQuotes.replace(/^"(.*)"$/, '$1');
-                                //lines[j] = `#KODIPROP:inputstream.adaptive.license_key=${stringWithoutQuotes}`;
+                                lines[j] = `#KODIPROP:inputstream.adaptive.license_key=${chansList[i].clearkey}`;
                                 break;
                             }
                         lines[j] = `#KODIPROP:inputstream.adaptive.license_key=${chansList[i].clearkey}`;
