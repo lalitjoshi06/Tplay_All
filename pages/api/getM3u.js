@@ -21,7 +21,7 @@ const getUserChanDetails = async () => {
             flatChannels.forEach(channel => {
                 let rearrangedChannel = {
                     id: channel.id,
-                    clearkey: channel.clearkeys && channel.clearkeys.length > 0 ? (channel.clearkeys.length > 1 ? JSON.stringify(channel.clearkeys[1].hex) : JSON.stringify(channel.clearkeys[0].hex)) : null,
+                    clearkey: channel.clearkeys ? JSON.stringify(channel.clearkeys[0].hex) : null,
                     hmac: hmacValue
                 };
                 obj.list.push(rearrangedChannel);
