@@ -9,7 +9,7 @@ const getUserChanDetails = async () => {
     try {
         const responseHmac = await fetch("https://tplayapi.code-crafters.app/321codecrafters/hmac.json");
         const data = await responseHmac.json();
-        hmacValue = data.data.hmac.hdtl.value;
+        hmacValue = data.data.hmac.hdntl.value;
     } catch (error) {
         console.error('Error fetching and rearranging HMAC data:', error);
         return obj;
