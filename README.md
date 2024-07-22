@@ -24,5 +24,5 @@ b) npm run dev
 
 This script is only for educational purpose and not for sale. 
 
-##Special thanks to CodeCrafters for their API.##
+##Special thanks to CodeCrafters for their API and @ SaifShaikh1805 for his repo at https://github.com/saifshaikh1805/tata-sky-m3u .##
 
